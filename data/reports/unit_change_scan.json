@@ -1,0 +1,76 @@
+{
+  "docids": {
+    "first": 214000,
+    "last_with_document": 220396,
+    "with_document": 6280,
+    "not_found": 147
+  },
+  "latest_issued": "2026-11-27",
+  "resolutions_new": [],
+  "resolutions_known": [
+    {
+      "docid": "217876",
+      "number": "237/NQ-UBTVQH16",
+      "issued": "2026-04-14",
+      "title": "Về việc thành lập 10 phường thuộc tỉnh Đồng Nai"
+    },
+    {
+      "docid": "218009",
+      "number": "30/2026/QH16",
+      "issued": "2026-04-24",
+      "title": "Về việc thành lập thành phố Đồng Nai"
+    },
+    {
+      "docid": "219223",
+      "number": "388/NQ-UBTVQH16",
+      "issued": "2026-08-04",
+      "title": "Về việc thành lập các phường thuộc tỉnh Bắc Ninh"
+    },
+    {
+      "docid": "219325",
+      "number": "36/2026/QH16",
+      "issued": "2026-08-24",
+      "title": "Về việc thành lập thành phố Quảng Ninh"
+    },
+    {
+      "docid": "219328",
+      "number": "39/2026/QH16",
+      "issued": "2026-08-24",
+      "title": "Về việc thành lập thành phố Bắc Ninh"
+    }
+  ],
+  "proposals": [
+    {
+      "docid": "217555",
+      "number": "95/NQ-CP",
+      "issued": "2026-04-06",
+      "title": "Về hồ sơ Đề án thành lập 10 phường thuộc tỉnh Đồng Nai và thành lập thành phố Đồng Nai trực thuộc trung ương"
+    },
+    {
+      "docid": "219011",
+      "number": "202/NQ-CP",
+      "issued": "2026-07-27",
+      "title": "Về hồ sơ Đề án thành lập thành phố Quảng Ninh trực thuộc Trung ương"
+    },
+    {
+      "docid": "219066",
+      "number": "207/NQ-CP",
+      "issued": "2026-08-02",
+      "title": "Về hồ sơ Đề án thành lập các phường thuộc tỉnh Bắc Ninh"
+    },
+    {
+      "docid": "219069",
+      "number": "205/NQ-CP",
+      "issued": "2026-08-01",
+      "title": "Về hồ sơ Đề án thành lập thành phố Bắc Ninh trực thuộc Trung ương"
+    },
+    {
+      "docid": "220221",
+      "number": "351/NQ-CP",
+      "issued": "2026-11-06",
+      "title": "Về hồ sơ Đề án điều chỉnh địa giới đơn vị hành chính giữa thành phố Hà Nội và tỉnh Phú Thọ"
+    }
+  ],
+  "errors": [],
+  "blocked": ""
+}
