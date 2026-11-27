@@ -1,0 +1,538 @@
+[
+  {
+    "doc_id": "1654/NQ-UBTVQH15",
+    "scope": "an-giang",
+    "clauses": 97,
+    "parsed": 97,
+    "unparsed": 0,
+    "stated_total": 102,
+    "unchanged": 6,
+    "rows": 299,
+    "checks": [
+      "ok   total: 96 formed + 6 unchanged",
+      "warn xa Tân An huyện Tân Hiệp: same name in 2 clauses ['full', 'full']",
+      "warn xa Tân Hòa huyện Phú Tân: same name in 2 clauses ['full', 'full']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1658/NQ-UBTVQH15",
+    "scope": "bac-ninh",
+    "clauses": 99,
+    "parsed": 99,
+    "unparsed": 0,
+    "stated_total": 99,
+    "unchanged": 1,
+    "rows": 314,
+    "checks": [
+      "ok   total: 98 formed + 1 unchanged",
+      "FAIL khu_vuc Trường bắn TB1: split unit used only once ['part']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1655/NQ-UBTVQH15",
+    "scope": "ca-mau",
+    "clauses": 64,
+    "parsed": 64,
+    "unparsed": 0,
+    "stated_total": 64,
+    "unchanged": 1,
+    "rows": 186,
+    "checks": [
+      "ok   total: 63 formed + 1 unchanged",
+      "info 4 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1668/NQ-UBTVQH15",
+    "scope": "can-tho",
+    "clauses": 96,
+    "parsed": 96,
+    "unparsed": 0,
+    "stated_total": 103,
+    "unchanged": 8,
+    "rows": 266,
+    "checks": [
+      "ok   total: 95 formed + 8 unchanged",
+      "warn xa Long Bình: same name in 2 clauses ['full', 'full']",
+      "warn xa Long Phú: same name in 2 clauses ['full', 'full']",
+      "warn xa Phú Hữu: same name in 2 clauses ['full', 'full']",
+      "warn xa Phú Tân: same name in 2 clauses ['full', 'full']",
+      "warn xa Thuận Hưng: same name in 2 clauses ['full', 'full']",
+      "warn xa Thạnh Phú: same name in 2 clauses ['full', 'unchanged']",
+      "warn xa Thạnh Quới: same name in 2 clauses ['full', 'full']",
+      "warn xa Tân Long: same name in 2 clauses ['full', 'full']",
+      "warn xa Tân Thạnh: same name in 2 clauses ['full', 'full']",
+      "info 4 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1657/NQ-UBTVQH15",
+    "scope": "cao-bang",
+    "clauses": 57,
+    "parsed": 57,
+    "unparsed": 0,
+    "stated_total": 56,
+    "unchanged": 0,
+    "rows": 161,
+    "checks": [
+      "ok   total: 56 formed + 0 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1659/NQ-UBTVQH15",
+    "scope": "da-nang",
+    "clauses": 93,
+    "parsed": 93,
+    "unparsed": 0,
+    "stated_total": 94,
+    "unchanged": 2,
+    "rows": 282,
+    "checks": [
+      "ok   total: 92 formed + 2 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1660/NQ-UBTVQH15",
+    "scope": "dak-lak",
+    "clauses": 97,
+    "parsed": 97,
+    "unparsed": 0,
+    "stated_total": 102,
+    "unchanged": 6,
+    "rows": 294,
+    "checks": [
+      "ok   total: 96 formed + 6 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1661/NQ-UBTVQH15",
+    "scope": "dien-bien",
+    "clauses": 46,
+    "parsed": 46,
+    "unparsed": 0,
+    "stated_total": 45,
+    "unchanged": 0,
+    "rows": 129,
+    "checks": [
+      "ok   total: 45 formed + 0 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1662/NQ-UBTVQH15",
+    "scope": "dong-nai",
+    "clauses": 89,
+    "parsed": 89,
+    "unparsed": 0,
+    "stated_total": 95,
+    "unchanged": 7,
+    "rows": 271,
+    "checks": [
+      "ok   total: 88 formed + 7 unchanged",
+      "warn thi_tran Tân Phú huyện Tân Phú: same name in 2 clauses ['full', 'full']",
+      "warn xa Lộc An huyện Lộc Ninh: same name in 2 clauses ['full', 'full']",
+      "warn xa Phước An huyện Nhơn Trạch: same name in 2 clauses ['full', 'full']",
+      "warn xa Thanh Sơn huyện Định Quán: same name in 2 clauses ['full', 'unchanged']",
+      "warn xa Tân Hưng huyện Hớn Quản: same name in 2 clauses ['full', 'full']",
+      "warn xa Tân Thành thành phố Đồng Xoài: same name in 2 clauses ['full', 'full']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1663/NQ-UBTVQH15",
+    "scope": "dong-thap",
+    "clauses": 103,
+    "parsed": 103,
+    "unparsed": 0,
+    "stated_total": 102,
+    "unchanged": 0,
+    "rows": 308,
+    "checks": [
+      "ok   total: 102 formed + 0 unchanged",
+      "warn xa Bình Thạnh huyện Cao Lãnh: same name in 2 clauses ['full', 'full']",
+      "warn xa Mỹ Long huyện Cai Lậy: same name in 2 clauses ['full', 'full']",
+      "warn xa Tân Bình thị xã Cai Lậy: same name in 3 clauses ['full', 'full', 'full']",
+      "warn xa Tân Hội thành phố Hồng Ngự: same name in 2 clauses ['full', 'full']",
+      "warn xa Tân Mỹ huyện Lấp Vò: same name in 2 clauses ['full', 'full']",
+      "warn xa Tân Thành huyện Gò Công Đông: same name in 2 clauses ['full', 'full']",
+      "info 11 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1664/NQ-UBTVQH15",
+    "scope": "gia-lai",
+    "clauses": 127,
+    "parsed": 127,
+    "unparsed": 0,
+    "stated_total": 135,
+    "unchanged": 9,
+    "rows": 376,
+    "checks": [
+      "ok   total: 126 formed + 9 unchanged",
+      "warn phuong Ngô Mây thành phố Quy Nhơn: same name in 2 clauses ['full', 'full']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1656/NQ-UBTVQH15",
+    "scope": "ha-noi",
+    "clauses": 127,
+    "parsed": 127,
+    "unparsed": 0,
+    "stated_total": 126,
+    "unchanged": 0,
+    "rows": 795,
+    "checks": [
+      "ok   total: 126 formed + 0 unchanged",
+      "warn xa Hòa Phú huyện Chương Mỹ: same name in 2 clauses ['full', 'full']",
+      "warn xa Thái Hòa huyện Ứng Hòa: same name in 2 clauses ['full', 'full']",
+      "warn xa Tân Minh huyện Thường Tín: same name in 2 clauses ['full', 'full']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1665/NQ-UBTVQH15",
+    "scope": "ha-tinh",
+    "clauses": 68,
+    "parsed": 68,
+    "unparsed": 0,
+    "stated_total": 69,
+    "unchanged": 2,
+    "rows": 212,
+    "checks": [
+      "ok   total: 67 formed + 2 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1669/NQ-UBTVQH15",
+    "scope": "hai-phong",
+    "clauses": 115,
+    "parsed": 115,
+    "unparsed": 0,
+    "stated_total": 114,
+    "unchanged": 0,
+    "rows": 451,
+    "checks": [
+      "ok   total: 114 formed + 0 unchanged",
+      "warn phuong Minh Đức quận Đồ Sơn: same name in 2 clauses ['full', 'full']",
+      "warn xa Bình Xuyên huyện Bình Giang: same name in 2 clauses ['full', 'full']",
+      "FAIL xa Hòa Bình: whole unit also used elsewhere ['full', 'part', 'rest']",
+      "FAIL xa Lê Lợi huyện Gia Lộc: whole unit also used elsewhere ['full', 'part', 'rest']",
+      "warn xa Quốc Tuấn huyện Nam Sách: same name in 2 clauses ['full', 'full']",
+      "warn xa Tân Phong huyện Ninh Giang: same name in 2 clauses ['full', 'full']",
+      "warn xa Vĩnh Hưng huyện Vĩnh Bảo: same name in 2 clauses ['full', 'full']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1685/NQ-UBTVQH15",
+    "scope": "ho-chi-minh",
+    "clauses": 164,
+    "parsed": 164,
+    "unparsed": 0,
+    "stated_total": 168,
+    "unchanged": 5,
+    "rows": 493,
+    "checks": [
+      "ok   total: 163 formed + 5 unchanged",
+      "warn xa Long Tân huyện Long Đất: same name in 2 clauses ['full', 'full']",
+      "info 75 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1675/NQ-UBTVQH15",
+    "scope": "hue",
+    "clauses": 40,
+    "parsed": 40,
+    "unparsed": 0,
+    "stated_total": 40,
+    "unchanged": 1,
+    "rows": 133,
+    "checks": [
+      "ok   total: 39 formed + 1 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1666/NQ-UBTVQH15",
+    "scope": "hung-yen",
+    "clauses": 105,
+    "parsed": 105,
+    "unparsed": 0,
+    "stated_total": 104,
+    "unchanged": 0,
+    "rows": 384,
+    "checks": [
+      "ok   total: 104 formed + 0 unchanged",
+      "warn xa Bình Minh huyện Khoái Châu: same name in 2 clauses ['full', 'full']",
+      "warn xa Hòa Bình huyện Kiến Xương: same name in 3 clauses ['full', 'full', 'full']",
+      "warn xa Minh Khai: same name in 2 clauses ['full', 'full']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1667/NQ-UBTVQH15",
+    "scope": "khanh-hoa",
+    "clauses": 66,
+    "parsed": 66,
+    "unparsed": 0,
+    "stated_total": 65,
+    "unchanged": 0,
+    "rows": 205,
+    "checks": [
+      "ok   total: 65 formed + 0 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1670/NQ-UBTVQH15",
+    "scope": "lai-chau",
+    "clauses": 37,
+    "parsed": 37,
+    "unparsed": 0,
+    "stated_total": 38,
+    "unchanged": 2,
+    "rows": 106,
+    "checks": [
+      "ok   total: 36 formed + 2 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1671/NQ-UBTVQH15",
+    "scope": "lam-dong",
+    "clauses": 121,
+    "parsed": 121,
+    "unparsed": 0,
+    "stated_total": 124,
+    "unchanged": 4,
+    "rows": 331,
+    "checks": [
+      "ok   total: 120 formed + 4 unchanged",
+      "info 1 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1672/NQ-UBTVQH15",
+    "scope": "lang-son",
+    "clauses": 66,
+    "parsed": 66,
+    "unparsed": 0,
+    "stated_total": 65,
+    "unchanged": 0,
+    "rows": 196,
+    "checks": [
+      "ok   total: 65 formed + 0 unchanged",
+      "warn xa Hồng Phong huyện Bình Gia: same name in 2 clauses ['full', 'full']",
+      "warn xa Hồng Thái huyện Bình Gia: same name in 2 clauses ['full', 'full']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1673/NQ-UBTVQH15",
+    "scope": "lao-cai",
+    "clauses": 92,
+    "parsed": 92,
+    "unparsed": 0,
+    "stated_total": 99,
+    "unchanged": 8,
+    "rows": 319,
+    "checks": [
+      "ok   total: 91 formed + 8 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1678/NQ-UBTVQH15",
+    "scope": "nghe-an",
+    "clauses": 122,
+    "parsed": 122,
+    "unparsed": 0,
+    "stated_total": 130,
+    "unchanged": 9,
+    "rows": 412,
+    "checks": [
+      "ok   total: 121 formed + 9 unchanged",
+      "warn xa Bắc Sơn: same name in 2 clauses ['full', 'full']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1674/NQ-UBTVQH15",
+    "scope": "ninh-binh",
+    "clauses": 130,
+    "parsed": 130,
+    "unparsed": 0,
+    "stated_total": 129,
+    "unchanged": 0,
+    "rows": 405,
+    "checks": [
+      "ok   total: 129 formed + 0 unchanged",
+      "warn xa Liên Sơn huyện Gia Viễn: same name in 2 clauses ['full', 'full']",
+      "warn xa Yên Nhân huyện Yên Mô: same name in 2 clauses ['full', 'full']",
+      "warn xa Yên Phong: same name in 2 clauses ['full', 'full']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1676/NQ-UBTVQH15",
+    "scope": "phu-tho",
+    "clauses": 147,
+    "parsed": 147,
+    "unparsed": 0,
+    "stated_total": 148,
+    "unchanged": 2,
+    "rows": 482,
+    "checks": [
+      "ok   total: 146 formed + 2 unchanged",
+      "warn xa Tân Minh huyện Thanh Sơn: same name in 2 clauses ['full', 'full']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1677/NQ-UBTVQH15",
+    "scope": "quang-ngai",
+    "clauses": 92,
+    "parsed": 92,
+    "unparsed": 0,
+    "stated_total": 96,
+    "unchanged": 5,
+    "rows": 274,
+    "checks": [
+      "ok   total: 91 formed + 5 unchanged",
+      "warn phuong Nguyễn Nghiêm thị xã Đức Phổ: same name in 2 clauses ['full', 'full']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1679/NQ-UBTVQH15",
+    "scope": "quang-ninh",
+    "clauses": 54,
+    "parsed": 54,
+    "unparsed": 0,
+    "stated_total": 54,
+    "unchanged": 1,
+    "rows": 183,
+    "checks": [
+      "ok   total: 53 formed + 1 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1680/NQ-UBTVQH15",
+    "scope": "quang-tri",
+    "clauses": 78,
+    "parsed": 78,
+    "unparsed": 0,
+    "stated_total": 78,
+    "unchanged": 1,
+    "rows": 265,
+    "checks": [
+      "ok   total: 77 formed + 1 unchanged",
+      "info 3 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1681/NQ-UBTVQH15",
+    "scope": "son-la",
+    "clauses": 69,
+    "parsed": 69,
+    "unparsed": 0,
+    "stated_total": 75,
+    "unchanged": 7,
+    "rows": 200,
+    "checks": [
+      "ok   total: 68 formed + 7 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1682/NQ-UBTVQH15",
+    "scope": "tay-ninh",
+    "clauses": 97,
+    "parsed": 97,
+    "unparsed": 0,
+    "stated_total": 96,
+    "unchanged": 0,
+    "rows": 302,
+    "checks": [
+      "ok   total: 96 formed + 0 unchanged",
+      "FAIL xa Bình Thạnh: split unit used only once ['part']",
+      "FAIL xa Bình Thạnh huyện Thủ Thừa: split unit used only once ['rest']",
+      "FAIL xa Bình Thạnh huyện Thủ Thừa: clause 84 refers to khoản [20], but the unit is split in khoản []",
+      "info 5 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1683/NQ-UBTVQH15",
+    "scope": "thai-nguyen",
+    "clauses": 91,
+    "parsed": 91,
+    "unparsed": 0,
+    "stated_total": 92,
+    "unchanged": 2,
+    "rows": 283,
+    "checks": [
+      "ok   total: 90 formed + 2 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1686/NQ-UBTVQH15",
+    "scope": "thanh-hoa",
+    "clauses": 146,
+    "parsed": 146,
+    "unparsed": 0,
+    "stated_total": 166,
+    "unchanged": 21,
+    "rows": 558,
+    "checks": [
+      "ok   total: 145 formed + 21 unchanged",
+      "warn phuong Ba Đình thị xã Bỉm Sơn: same name in 2 clauses ['full', 'full']",
+      "warn phuong Bắc Sơn thành phố Sầm Sơn: same name in 2 clauses ['full', 'full']",
+      "warn phuong Lam Sơn: same name in 2 clauses ['full', 'full']",
+      "warn phuong Ngọc Trạo: same name in 2 clauses ['full', 'full']",
+      "warn phuong Phú Sơn: same name in 2 clauses ['full', 'full']",
+      "warn phuong Đông Sơn thành phố Thanh Hóa: same name in 2 clauses ['full', 'full']",
+      "warn xa Thành Sơn huyện Bá Thước: same name in 2 clauses ['full', 'full']",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1684/NQ-UBTVQH15",
+    "scope": "tuyen-quang",
+    "clauses": 112,
+    "parsed": 112,
+    "unparsed": 0,
+    "stated_total": 124,
+    "unchanged": 13,
+    "rows": 335,
+    "checks": [
+      "ok   total: 111 formed + 13 unchanged",
+      "info 0 district qualifiers inferred from a list"
+    ]
+  },
+  {
+    "doc_id": "1687/NQ-UBTVQH15",
+    "scope": "vinh-long",
+    "clauses": 121,
+    "parsed": 121,
+    "unparsed": 0,
+    "stated_total": 124,
+    "unchanged": 4,
+    "rows": 359,
+    "checks": [
+      "ok   total: 120 formed + 4 unchanged",
+      "warn phuong 7 thành phố Trà Vinh: same name in 2 clauses ['full', 'full']",
+      "warn xa Hòa Lộc: same name in 2 clauses ['full', 'full']",
+      "warn xa Mỹ An huyện Mang Thít: same name in 2 clauses ['full', 'full']",
+      "info 5 district qualifiers inferred from a list"
+    ]
+  }
+]

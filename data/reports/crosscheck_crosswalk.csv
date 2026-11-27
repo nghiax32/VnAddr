@@ -1,0 +1,21 @@
+province,issue,new,old,resolution,crosswalk,source
+24,only in resolution,Biên Sơn,Trường bắn TB1 ,split_partial,,"34. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Phong Vân, xã Biên Sơn và toàn bộ diện tích tự nhiên của Trường bắn TB1 thành xã mới có tên gọi là "
+24,only in resolution,Đồng Nguyên,Trang Hạ ,merged_full,,"73. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Trang Hạ, Đồng Kỵ và Đồng Nguyên thành phường mới có tên gọi là phường Đồng Nguyên."
+24,only in crosswalk,Phường Đồng Nguyên,Phường Trạng Hạ (Thành phố Từ Sơn),,Nhập toàn bộ,
+48,district without communes,Hoàng Sa,huyện Hoàng Sa,merged_full,,"92. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của huyện Hoàng Sa thành đặc khu có tên gọi là đặc khu Hoàng Sa."
+52,only in resolution,SRó,Đăk Kơ Ning ,merged_full,,"71. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Đăk Kơ Ning và xã SRó thành xã mới có tên gọi là xã SRó."
+52,only in resolution,Kon Chiêng,Đak Trôi ,merged_full,,"93. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Đak Trôi và xã Kon Chiêng thành xã mới có tên gọi là xã Kon Chiêng."
+52,only in crosswalk,Xã Kon Chiêng,Xã Đăk Trôi (Huyện Mang Yang),,Nhập toàn bộ,
+52,only in crosswalk,Xã SRó,Xã Đắk Kơ Ning (Huyện Kông Chro),,Nhập toàn bộ,
+42,whole/part differs,Vũng Áng,Kỳ Lợi ,part,Nhập toàn bộ diện tích,"62. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Kỳ Long, phường Kỳ Thịnh và toàn bộ diện tích tự nhiên của xã Kỳ Lợi thành phường mới có tên gọ"
+31,district without communes,Bạch Long Vĩ,huyện Bạch Long Vĩ,merged_full,,"114. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của huyện Bạch Long Vĩ thành đặc khu có tên gọi là đặc khu Bạch Long Vĩ."
+79,district without communes,Côn Đảo,huyện Côn Đảo,merged_full,,"163. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của huyện Côn Đảo thành đặc khu có tên gọi là đặc khu Côn Đảo."
+68,only in resolution,Hồng Thái,Hòa Thắng ,split_partial,,"46. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Phan Thanh, xã Hồng Thái và một phần diện tích tự nhiên của xã Hòa Thắng thành xã mới có tên gọi là"
+68,whole/part differs,Hòa Thắng,Hòa Thắng ,part,Nhập toàn bộ,"51. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Hồng Phong và phần còn lại của xã Hòa Thắng sau khi sắp xếp theo quy định tại khoản 46 Điều này thà"
+68,only in resolution,Đắk Wil,Đắk Wil ,merged_full,,"77. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Ea Pô và xã Đắk Wil thành xã mới có tên gọi là xã Đắk Wil."
+68,only in crosswalk,Xã Đắk Wil,Xã Đăk Wil (Huyện Cư Jút),,Nhập toàn bộ,
+37,only in resolution,Kim Đông,khu vực bãi bồi ven biển do huyện Kim Sơn quản lý,merged_full,,"97. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Kim Trung, xã Kim Đông và khu vực bãi bồi ven biển (do huyện Kim Sơn quản lý) thành xã mới có tên g"
+37,only in crosswalk,Xã Kim Đông,Khu vực bãi bồi ven biển do huyện Kim Sơn quản lý (Huyện Kim Sơn),,Nhập toàn bộ,
+51,district without communes,Lý Sơn,huyện Lý Sơn,merged_full,,"91. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của huyện Lý Sơn thành đặc khu có tên gọi là đặc khu Lý Sơn."
+22,only in crosswalk,Xã Hải Hòa,Xã Hải Lạng (Huyện Tiên Yên),,Nhập một phần,
+44,district without communes,Cồn Cỏ,huyện Cồn Cỏ,merged_full,,"77. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của huyện Cồn Cỏ thành đặc khu có tên gọi là đặc khu Cồn Cỏ."
