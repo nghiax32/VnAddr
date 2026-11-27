@@ -11,7 +11,9 @@ and keeps its number, issue date, issuer and title.
 The range starts at FIRST_DOCID (a document of 16 June 2025, before Decision 19/2025) unless
 given. Without a last docid the scan goes on past the highest docid listed until STOP_AFTER
 docids in a row have no document. Docids already listed with a document are not read again; a
-docid without one ("Không tìm thấy văn bản này") is read again on the next run.
+docid without one ("Không tìm thấy văn bản này") is read again on the next run, and so is a
+docid that could not be read. After MAX_ERRORS such docids in a row (the network is down, or the
+site is) the scan stops, keeping what it has read.
 
 Output: data/interim/vanban_index.csv, one row per docid: docid, status ("ok", "not_found"),
         number, issued (ISO date), issuer, title, files.
@@ -21,7 +23,7 @@ Output: data/interim/vanban_index.csv, one row per docid: docid, status ("ok", "
           when pipeline.sources lists it as a unit_change source and "new" otherwise;
         - Government resolutions on a proposal (hồ sơ Đề án) to change units, which precede
           such a resolution and are listed for review only.
-The exit code is 1 when a new resolution is found.
+The exit code is 1 when a new resolution is found or a docid could not be read.
 """
 
 from __future__ import annotations
@@ -45,6 +47,7 @@ REPORT = REPORTS_DIR / "unit_change_scan.json"
 FIELDS = ["docid", "status", "number", "issued", "issuer", "title", "files"]
 FIRST_DOCID = 214000
 STOP_AFTER = 30
+MAX_ERRORS = 10
 SINCE = "2025-07-01"
 NOT_FOUND_TEXT = "Không tìm thấy văn bản này"
 LABELS = {
@@ -112,14 +115,21 @@ def write_index(index: dict[int, dict[str, str]]) -> None:
 def scan(http: Http, index: dict[int, dict[str, str]], first: int, last: int | None) -> list[str]:
     """Read the pages of the range into index; return the docids that could not be read."""
     errors = []
-    docid, misses, read = first, 0, 0
+    docid, misses, read, failing = first, 0, 0, 0
     top = max((d for d, r in index.items() if r["status"] == "ok"), default=first)
     while (docid <= last) if last is not None else (docid <= top or misses < STOP_AFTER):
         if index.get(docid, {}).get("status") != "ok":
             try:
                 index[docid] = read_page(docid, http.get(PAGE.format(docid)).text)
+                failing = 0
             except NotFound as exc:
                 errors.append(f"{docid}: {exc}")
+                failing += 1
+                if failing == MAX_ERRORS:
+                    errors.append(
+                        f"stopped at docid {docid}: {MAX_ERRORS} docids in a row not read"
+                    )
+                    break
             read += 1
             if read % 100 == 0:  # keep what was read if the run stops
                 write_index(index)
@@ -174,7 +184,7 @@ def main() -> int:
     if blocked:
         print(f"blocked: {blocked}")
     print(f"{len(listed)} documents, {not_found} docids without one -> {REPORT}")
-    return 1 if found["new"] or blocked else 0
+    return 1 if found["new"] or blocked or errors else 0
 
 
 if __name__ == "__main__":

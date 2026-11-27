@@ -4,7 +4,8 @@ The page fragments are verbatim from vanban.chinhphu.vn: the field table of doci
 (30/2026/QH16) and the message of a docid without a document (220380). The rows are the values
 those pages give for docids 219325, 219333, 214000 and 220221."""
 
-from pipeline.scan_unit_changes import classify, read_page
+from pipeline.http import NotFound
+from pipeline.scan_unit_changes import MAX_ERRORS, classify, read_page, scan
 
 PAGE_218009 = """<table style="width: 100%">
             <tr>
@@ -109,3 +110,24 @@ def test_a_government_proposal_is_listed_for_review() -> None:
         "và tỉnh Phú Thọ",
     )
     assert classify(proposal, set()) == "proposal"
+
+
+class Offline:
+    """Stands in for pipeline.http.Http when the network is down: every request fails."""
+
+    def __init__(self) -> None:
+        self.requests = 0
+
+    def get(self, url: str) -> None:
+        self.requests += 1
+        raise NotFound(url)
+
+
+def test_the_scan_stops_when_pages_cannot_be_read() -> None:
+    http = Offline()
+    index: dict[int, dict[str, str]] = {}
+    errors = scan(http, index, 220000, 220100)  # type: ignore[arg-type]
+    assert http.requests == MAX_ERRORS
+    last = 220000 + MAX_ERRORS - 1
+    assert errors[-1] == f"stopped at docid {last}: {MAX_ERRORS} docids in a row not read"
+    assert index == {}  # nothing is recorded for a page that was not read
