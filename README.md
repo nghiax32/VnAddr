@@ -40,16 +40,24 @@ For a free-text address such as `70 nguyễn sỹ sách, p.15, Tân Bình, Tp.HC
 
 ```mermaid
 flowchart TD
-    A[Decision 19/2025<br/>new names and codes] --> D[build entities]
-    B[34 NA Standing Committee<br/>resolutions, PDF/HTML] --> C[fetch, extract text]
-    C --> E[parse resolution sentences]
-    S[Statistics Office<br/>conversion table, XLSX] --> W[build crosswalk]
-    W --> V
-    H[People's Council<br/>resolutions on villages] --> HV[parse village tables]
-    HV --> V
-    L[Legacy list<br/>63 provinces, 3 levels] --> D
+    A[Decision 19/2025<br/>new names and codes] --> D[build entities<br/>34 provinces, 3,321 communes]
+    U[Resolutions after 1 July 2025<br/>listed from vanban.chinhphu.vn] --> UC[OCR the scans,<br/>parse unit changes]
+    UC --> D
+    S[Statistics Office<br/>conversion table, XLSX] --> W[build crosswalk<br/>old commune → new commune]
+    W -.->|compare| D
+    B[34 NA Standing Committee<br/>resolutions of 2025] --> E[extract text,<br/>parse resolution sentences]
+    E --> CC[cross-check with the<br/>conversion table]
+    W --> CC
+    Q[NA Standing Committee resolutions<br/>of 2019–2021 and 2023–2025] --> E2[extract text,<br/>parse earlier rounds]
+    E2 --> CH[commune history<br/>2019 → 2025]
+    W --> CH
+    H[People's Council<br/>resolutions on villages] --> HV[OCR tables, crawl commune portals,<br/>parse villages]
+    HV --> VV[validate villages]
     D --> V[validate<br/>coverage report]
-    E --> V
+    W --> V
+    CC --> V
+    CH --> V
+    VV --> V
     X[Other libraries] --> K[cross-check<br/>diff report]
     V --> K
     V --> P[(Versioned data<br/>shipped in the package)]
@@ -67,7 +75,7 @@ flowchart TD
 - **The build pipeline is separate from the package:** fetching, extraction and parsing run once per data release and are not installed with the library. The package only ships the validated data, loaded on first use rather than at import.
 - **Matching goes from cheap to expensive:** exact lookup on (province, district, commune), then (province, commune), then without diacritics, and only then fuzzy matching, limited to the province already identified. Limiting the search keeps it fast and avoids matching a name from another province; the trade-off is that a province that cannot be recognised has to be resolved first, by fuzzy matching on the province names.
 - **Old-format input needs the old district:** names such as `Phường 15` exist in many districts, so the parser keeps the district even though the new system no longer has one.
-- **Data is versioned by date**, for example `2025.07.01-r1`, so a correction to a name or code (such as Official Letter 1027/CTK-CSCL) becomes a new data release, and the same input with the same data version always gives the same result.
+- **Data is versioned by date**, for example `2025.07.01-r1`, so a later change to a unit (such as the communes made wards in 2026) becomes a new data release, and the same input with the same data version always gives the same result.
 
 ## Goals
 
@@ -104,10 +112,12 @@ flowchart TD
 | Document | Content | Used for |
 |---|---|---|
 | Decision 19/2025/QĐ-TTg | List and codes of the 34 provinces and 3,321 communes | New entities |
+| Resolutions after 1 July 2025: 237/NQ-UBTVQH16 and 388/NQ-UBTVQH16 (communes made wards in Đồng Nai and Bắc Ninh), 30/2026/QH16, 36/2026/QH16 and 39/2026/QH16 (Đồng Nai, Quảng Ninh and Bắc Ninh made cities) | Changes to the units of Decision 19/2025; codes are kept | Current type of each new entity, and the date it changed |
 | 34 resolutions of the NA Standing Committee (in force 16 June 2025) | Which old communes form each new commune | Article and clause of each commune row; cross-check |
+| Earlier resolutions of the NA Standing Committee: 2019–2021 (…/NQ-UBTVQH14, 70 documents) and 2023–2025 (…/NQ-UBTVQH15, 60 documents) | Communes merged, renamed or made wards, boundaries adjusted, districts merged or formed | Each commune of 2019 followed to 2025, for addresses written before the 2025 reorganisation |
 | Conversion table, old to new communes (Statistics Office, danhmuchanhchinh.nso.gov.vn) | Old commune (name, code, district) → new commune, whole or part | Commune mapping and list of old communes |
 | Resolution 202/2025/QH15 | Reorganisation of provinces (63 → 34) | Province mapping |
-| Official Letter 1027/CTK-CSCL (Statistics Office, Ministry of Finance) | Official list and corrections to names and codes | Corrections |
+| Official Letter 1027/CTK-CSCL (Statistics Office, Ministry of Finance) | Official list and corrections to names and codes | Not applied: it predates Decision 19/2025 (30 June 2025), whose list is used as published |
 | Decision 124/2004/QĐ-TTg and later updates | Old list (63 provinces, 3 levels) | Not yet found in machine-readable form; old communes come from the conversion table |
 | Resolutions of People's Councils on villages: provincial before 2025 (for example 63/2021/NQ-HĐND, Nam Định), communal in 2026 | Which villages are merged or renamed, and when | Village mapping |
 
@@ -165,16 +175,24 @@ Với một địa chỉ tự do như `70 nguyễn sỹ sách, p.15, Tân Bình,
 
 ```mermaid
 flowchart TD
-    A[Quyết định 19/2025<br/>tên và mã mới] --> D[build entities]
-    B[34 nghị quyết UBTVQH<br/>PDF/HTML] --> C[fetch, extract text]
-    C --> E[parse câu sắp xếp]
-    S[Bảng chuyển đổi<br/>của Cục Thống kê, XLSX] --> W[build crosswalk]
-    W --> V
-    H[Nghị quyết HĐND<br/>về thôn, tổ dân phố] --> HV[parse bảng thôn]
-    HV --> V
-    L[Danh mục cũ<br/>63 tỉnh, 3 cấp] --> D
+    A[Quyết định 19/2025<br/>tên và mã mới] --> D[build entities<br/>34 tỉnh, 3.321 xã]
+    U[Nghị quyết sau 01/7/2025<br/>rà trên vanban.chinhphu.vn] --> UC[OCR bản scan,<br/>parse thay đổi đơn vị]
+    UC --> D
+    S[Bảng chuyển đổi<br/>của Cục Thống kê, XLSX] --> W[build crosswalk<br/>xã cũ → xã mới]
+    W -.->|đối chiếu| D
+    B[34 nghị quyết UBTVQH<br/>đợt 2025] --> E[extract text,<br/>parse câu sắp xếp]
+    E --> CC[đối chiếu với<br/>bảng chuyển đổi]
+    W --> CC
+    Q[Nghị quyết UBTVQH<br/>đợt 2019–2021 và 2023–2025] --> E2[extract text,<br/>parse các đợt trước]
+    E2 --> CH[chuỗi xã<br/>2019 → 2025]
+    W --> CH
+    H[Nghị quyết HĐND<br/>về thôn, tổ dân phố] --> HV[OCR bảng, crawl cổng xã,<br/>parse thôn]
+    HV --> VV[validate thôn]
     D --> V[validate<br/>coverage report]
-    E --> V
+    W --> V
+    CC --> V
+    CH --> V
+    VV --> V
     X[Thư viện khác] --> K[cross-check<br/>diff report]
     V --> K
     V --> P[(Dữ liệu có version<br/>đóng gói trong package)]
@@ -192,7 +210,7 @@ flowchart TD
 - **Pipeline build dữ liệu tách khỏi package:** fetch, extract và parse chạy một lần cho mỗi bản dữ liệu và không được cài cùng thư viện. Package chỉ chứa dữ liệu đã validate, load khi dùng lần đầu chứ không load lúc import.
 - **Match đi từ rẻ đến đắt:** exact lookup theo (tỉnh, huyện, xã), rồi (tỉnh, xã), rồi bản bỏ dấu, sau cùng mới fuzzy match, giới hạn trong tỉnh đã xác định. Giới hạn phạm vi giúp chạy nhanh và tránh khớp nhầm tên ở tỉnh khác; trade-off là nếu chưa nhận ra tỉnh thì phải xác định tỉnh trước, bằng fuzzy match trên danh sách tên tỉnh.
 - **Địa chỉ theo hệ cũ cần cả huyện cũ:** những tên như `Phường 15` có ở nhiều quận, nên parser giữ lại huyện dù hệ mới không còn cấp này.
-- **Dữ liệu có version theo ngày**, ví dụ `2025.07.01-r1`, nên một lần đính chính tên hoặc mã (như Công văn 1027/CTK-CSCL) thành một bản dữ liệu mới, và cùng input với cùng version dữ liệu luôn cho cùng kết quả.
+- **Dữ liệu có version theo ngày**, ví dụ `2025.07.01-r1`, nên một thay đổi đơn vị về sau (như các xã lên phường năm 2026) thành một bản dữ liệu mới, và cùng input với cùng version dữ liệu luôn cho cùng kết quả.
 
 ## Mục tiêu
 
@@ -229,10 +247,12 @@ flowchart TD
 | Văn bản | Nội dung | Dùng cho |
 |---|---|---|
 | Quyết định 19/2025/QĐ-TTg | Danh mục và mã số 34 tỉnh, 3.321 xã | Entity hệ mới |
+| Nghị quyết sau 01/7/2025: 237/NQ-UBTVQH16 và 388/NQ-UBTVQH16 (xã lên phường ở Đồng Nai và Bắc Ninh), 30/2026/QH16, 36/2026/QH16 và 39/2026/QH16 (Đồng Nai, Quảng Ninh và Bắc Ninh thành thành phố) | Thay đổi đơn vị của Quyết định 19/2025; mã giữ nguyên | Loại hiện hành của từng entity hệ mới, kèm ngày thay đổi |
 | 34 nghị quyết của UBTVQH (hiệu lực 16/06/2025) | Xã cũ nào hợp thành từng xã mới | Điều, khoản của từng dòng cấp xã; đối chiếu |
+| Nghị quyết UBTVQH các đợt trước: 2019–2021 (…/NQ-UBTVQH14, 70 văn bản) và 2023–2025 (…/NQ-UBTVQH15, 60 văn bản) | Nhập, đổi tên xã, xã lên phường, điều chỉnh địa giới; nhập, thành lập huyện | Chuỗi từng xã từ 2019 tới 2025, cho địa chỉ ghi trước đợt sắp xếp 2025 |
 | Bảng chuyển đổi ĐVHC mới - cũ (Cục Thống kê, danhmuchanhchinh.nso.gov.vn) | Xã cũ (tên, mã, huyện) → xã mới, nhập toàn bộ hay một phần | Mapping cấp xã và danh mục xã cũ |
 | Nghị quyết 202/2025/QH15 | Sắp xếp cấp tỉnh (63 → 34) | Mapping cấp tỉnh |
-| Công văn 1027/CTK-CSCL (Cục Thống kê) | Danh sách chính thức và đính chính tên, mã | Đính chính |
+| Công văn 1027/CTK-CSCL (Cục Thống kê) | Danh sách chính thức và đính chính tên, mã | Không áp: ký trước Quyết định 19/2025 (30/6/2025), danh mục được đọc nguyên như quyết định |
 | Quyết định 124/2004/QĐ-TTg và các bản cập nhật | Danh mục cũ (63 tỉnh, 3 cấp) | Chưa tìm được bản máy đọc được; danh mục xã cũ lấy từ bảng chuyển đổi |
 | Nghị quyết HĐND về thôn, tổ dân phố: HĐND tỉnh với các đợt trước 2025 (ví dụ 63/2021/NQ-HĐND của Nam Định), HĐND xã với đợt 2026 | Thôn nào được sáp nhập, đổi tên, và từ khi nào | Mapping cấp thôn |
 
