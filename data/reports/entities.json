@@ -1,0 +1,119 @@
+{
+  "source_doc": "19/2025/QĐ-TTg",
+  "as_of": "2026-09-20",
+  "provinces": 34,
+  "communes": 3321,
+  "communes_by_type": {
+    "phuong": 709,
+    "xa": 2599,
+    "dac_khu": 13
+  },
+  "problems": [],
+  "unread": [],
+  "changes_applied": {
+    "237/NQ-UBTVQH16": 10,
+    "30/2026/QH16": 1,
+    "36/2026/QH16": 1,
+    "388/NQ-UBTVQH16": 12,
+    "39/2026/QH16": 1
+  },
+  "change_problems": [],
+  "crosswalk": {
+    "only_decision": [
+      {
+        "code": "11948",
+        "name": "Đặc khu Bạch Long Vĩ"
+      },
+      {
+        "code": "19742",
+        "name": "Đặc khu Cồn Cỏ"
+      },
+      {
+        "code": "20333",
+        "name": "Đặc khu Hoàng Sa"
+      },
+      {
+        "code": "21548",
+        "name": "Đặc khu Lý Sơn"
+      },
+      {
+        "code": "26732",
+        "name": "Đặc khu Côn Đảo"
+      }
+    ],
+    "only_crosswalk": [],
+    "spelling": [
+      {
+        "code": "05569",
+        "decision": "Xã Định Hóa (19)",
+        "crosswalk": "Xã Định Hoá (19)"
+      },
+      {
+        "code": "05941",
+        "decision": "Xã Điềm Thụy (19)",
+        "crosswalk": "Xã Điềm Thuỵ (19)"
+      },
+      {
+        "code": "13396",
+        "decision": "Phường Nguyễn Úy (37)",
+        "crosswalk": "Phường Nguyễn Uý (37)"
+      },
+      {
+        "code": "14167",
+        "decision": "Xã Giao Thủy (37)",
+        "crosswalk": "Xã Giao Thuỷ (37)"
+      },
+      {
+        "code": "14677",
+        "decision": "Xã Định Hóa (37)",
+        "crosswalk": "Xã Định Hoá (37)"
+      },
+      {
+        "code": "22924",
+        "decision": "Phường Phú Thủy (68)",
+        "crosswalk": "Phường Phú Thuỷ (68)"
+      },
+      {
+        "code": "24184",
+        "decision": "Xã Ea H’Leo (66)",
+        "crosswalk": "Xã Ea H'Leo (66)"
+      },
+      {
+        "code": "24280",
+        "decision": "Xã Cư M’gar (66)",
+        "crosswalk": "Xã Cư M'gar (66)"
+      },
+      {
+        "code": "24286",
+        "decision": "Xã Ea M’Droh (66)",
+        "crosswalk": "Xã Ea M'Droh (66)"
+      },
+      {
+        "code": "24412",
+        "decision": "Xã M’Drắk (66)",
+        "crosswalk": "Xã M'Drắk (66)"
+      },
+      {
+        "code": "24436",
+        "decision": "Xã Cư M’ta (66)",
+        "crosswalk": "Xã Cư M'ta (66)"
+      },
+      {
+        "code": "24829",
+        "decision": "Phường B'Lao (68)",
+        "crosswalk": "Phường B’Lao (68)"
+      },
+      {
+        "code": "24934",
+        "decision": "Xã D'Ran (68)",
+        "crosswalk": "Xã D’Ran (68)"
+      },
+      {
+        "code": "27823",
+        "decision": "Xã Mộc Hóa (80)",
+        "crosswalk": "Xã Mộc Hoá (80)"
+      }
+    ],
+    "differ": []
+  }
+}
