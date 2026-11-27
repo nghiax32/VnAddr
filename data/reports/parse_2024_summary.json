@@ -1,0 +1,3035 @@
+{
+  "nam-dinh-2024": {
+    "rows": 81,
+    "unread": [],
+    "province_total": {
+      "stated": 175,
+      "computed": 175
+    },
+    "district_counts": {
+      "thành phố Nam Định": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Vụ Bản": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Ý Yên": {
+        "stated": 23,
+        "computed": 23
+      },
+      "huyện Nam Trực": {
+        "stated": 18,
+        "computed": 18
+      },
+      "huyện Xuân Trường": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Nghĩa Hưng": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Hải Hậu": {
+        "stated": 24,
+        "computed": 24
+      },
+      "huyện Giao Thủy": {
+        "stated": 20,
+        "computed": 20
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ha-nam-2024": {
+    "rows": 29,
+    "unread": [],
+    "province_total": {
+      "stated": 98,
+      "computed": 98
+    },
+    "district_counts": {
+      "thị xã Kim Bảng": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Bình Lục": {
+        "stated": 15,
+        "computed": 15
+      },
+      "thị xã Duy Tiên": {
+        "stated": 15,
+        "computed": 15
+      },
+      "thành phố Phủ Lý": {
+        "stated": 14,
+        "computed": 14
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ninh-binh-2024": {
+    "rows": 36,
+    "unread": [],
+    "province_total": {
+      "stated": 125,
+      "computed": 125
+    },
+    "district_counts": {
+      "thành phố Hoa Lư": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Nho Quan": {
+        "stated": 23,
+        "computed": 23
+      },
+      "huyện Gia Viễn": {
+        "stated": 18,
+        "computed": 18
+      },
+      "huyện Yên Khánh": {
+        "stated": 18,
+        "computed": 18
+      },
+      "huyện Yên Mô": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Kim Sơn": {
+        "stated": 23,
+        "computed": 23
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "nam-dinh-2020": {
+    "rows": 8,
+    "unread": [],
+    "province_total": {
+      "stated": 226,
+      "computed": 226
+    },
+    "district_counts": {
+      "huyện Hải Hậu": {
+        "stated": 34,
+        "computed": 34
+      },
+      "huyện Nghĩa Hưng": {
+        "stated": 24,
+        "computed": 24
+      },
+      "huyện Ý Yên": {
+        "stated": 31,
+        "computed": 31
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ha-nam-2020": {
+    "rows": 45,
+    "unread": [],
+    "province_total": {
+      "stated": 109,
+      "computed": 109
+    },
+    "district_counts": {
+      "thị xã Duy Tiên": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Bình Lục": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Lý Nhân": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Thanh Liêm": {
+        "stated": 16,
+        "computed": 16
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ninh-binh-2020": {
+    "rows": 6,
+    "unread": [],
+    "province_total": {
+      "stated": 143,
+      "computed": 143
+    },
+    "district_counts": {
+      "huyện Kim Sơn": {
+        "stated": 25,
+        "computed": 25
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "an-giang-2024": {
+    "rows": 2,
+    "unread": [],
+    "province_total": {
+      "stated": 155,
+      "computed": 155
+    },
+    "district_counts": {
+      "thành phố Long Xuyên": {
+        "stated": 12,
+        "computed": 12
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ba-ria-vung-tau-2024": {
+    "rows": 15,
+    "unread": [],
+    "province_total": {
+      "stated": 77,
+      "computed": 77
+    },
+    "district_counts": {
+      "huyện Long Đất": {
+        "stated": 11,
+        "computed": 11
+      },
+      "thành phố Bà Rịa": {
+        "stated": 10,
+        "computed": 10
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "bac-giang-2024": {
+    "rows": 72,
+    "unread": [],
+    "province_total": {
+      "stated": 192,
+      "computed": 192
+    },
+    "district_counts": {
+      "thành phố Bắc Giang": {
+        "stated": 31,
+        "computed": 31
+      },
+      "huyện Hiệp Hòa": {
+        "stated": 19,
+        "computed": 19
+      },
+      "huyện Lạng Giang": {
+        "stated": 19,
+        "computed": 19
+      },
+      "huyện Lục Nam": {
+        "stated": 24,
+        "computed": 24
+      },
+      "huyện Tân Yên": {
+        "stated": 19,
+        "computed": 19
+      },
+      "huyện Yên Thế": {
+        "stated": 17,
+        "computed": 17
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "bac-lieu-2024": {
+    "rows": 2,
+    "unread": [],
+    "province_total": {
+      "stated": 64,
+      "computed": 64
+    },
+    "district_counts": {
+      "thành phố Bạc Liêu": {
+        "stated": 10,
+        "computed": 10
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "bac-ninh-2024": {
+    "rows": 11,
+    "unread": [],
+    "province_total": {
+      "stated": 121,
+      "computed": 121
+    },
+    "district_counts": {
+      "thành phố Bắc Ninh": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Lương Tài": {
+        "stated": 12,
+        "computed": 12
+      },
+      "thị xã Quế Võ": {
+        "stated": 20,
+        "computed": 20
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ben-tre-2024": {
+    "rows": 15,
+    "unread": [],
+    "province_total": {
+      "stated": 148,
+      "computed": 148
+    },
+    "district_counts": {
+      "thành phố Bến Tre": {
+        "stated": 12,
+        "computed": 12
+      },
+      "huyện Châu Thành": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Bình Đại": {
+        "stated": 19,
+        "computed": 19
+      },
+      "huyện Ba Tri": {
+        "stated": 22,
+        "computed": 22
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "binh-dinh-2024": {
+    "rows": 7,
+    "unread": [],
+    "province_total": {
+      "stated": 155,
+      "computed": 155
+    },
+    "district_counts": {
+      "thành phố Quy Nhơn": {
+        "stated": 17,
+        "computed": 17
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "binh-duong-2024": {
+    "rows": 3,
+    "unread": [],
+    "province_total": {
+      "stated": null,
+      "computed": 91
+    },
+    "district_counts": {},
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "binh-phuoc-2024": {
+    "rows": 6,
+    "unread": [],
+    "province_total": {
+      "stated": null,
+      "computed": 111
+    },
+    "district_counts": {},
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "binh-thuan-2024": {
+    "rows": 7,
+    "unread": [],
+    "province_total": {
+      "stated": 121,
+      "computed": 121
+    },
+    "district_counts": {
+      "thành phố Phan Thiết": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Bắc Bình": {
+        "stated": 18,
+        "computed": 18
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ca-mau-2024": {
+    "rows": 7,
+    "unread": [],
+    "province_total": {
+      "stated": 100,
+      "computed": 100
+    },
+    "district_counts": {
+      "thành phố Cà Mau": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Phú Tân": {
+        "stated": 9,
+        "computed": 9
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "can-tho-2024": {
+    "rows": 4,
+    "unread": [],
+    "province_total": {
+      "stated": 80,
+      "computed": 80
+    },
+    "district_counts": {
+      "quận Ninh Kiều": {
+        "stated": 8,
+        "computed": 8
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "da-nang-2024": {
+    "rows": 23,
+    "unread": [],
+    "province_total": {
+      "stated": 47,
+      "computed": 47
+    },
+    "district_counts": {
+      "quận Hải Châu": {
+        "stated": 9,
+        "computed": 9
+      },
+      "quận Sơn Trà": {
+        "stated": 6,
+        "computed": 6
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "dak-lak-2024": {
+    "rows": 12,
+    "unread": [],
+    "province_total": {
+      "stated": 180,
+      "computed": 180
+    },
+    "district_counts": {
+      "thành phố Buôn Ma Thuột": {
+        "stated": 19,
+        "computed": 19
+      },
+      "thị xã Buôn Hồ": {
+        "stated": 11,
+        "computed": 11
+      },
+      "huyện Krông Bông": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Ea Súp": {
+        "stated": 10,
+        "computed": 10
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "dong-nai-2024": {
+    "rows": 24,
+    "unread": [],
+    "province_total": {
+      "stated": 159,
+      "computed": 159
+    },
+    "district_counts": {
+      "thành phố Biên Hòa": {
+        "stated": 25,
+        "computed": 25
+      },
+      "thành phố Long Khánh": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Tân Phú": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Vĩnh Cửu": {
+        "stated": 10,
+        "computed": 10
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "dong-thap-2024": {
+    "rows": 4,
+    "unread": [],
+    "province_total": {
+      "stated": 141,
+      "computed": 141
+    },
+    "district_counts": {
+      "thành phố Cao Lãnh": {
+        "stated": 13,
+        "computed": 13
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "gia-lai-2024": {
+    "rows": 6,
+    "unread": [],
+    "province_total": {
+      "stated": 218,
+      "computed": 218
+    },
+    "district_counts": {
+      "thành phố Pleiku": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Kbang": {
+        "stated": 13,
+        "computed": 13
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ha-noi-2024": {
+    "rows": 113,
+    "unread": [],
+    "province_total": {
+      "stated": 526,
+      "computed": 526
+    },
+    "district_counts": {
+      "huyện Ba Vì": {
+        "stated": 29,
+        "computed": 29
+      },
+      "huyện Chương Mỹ": {
+        "stated": 30,
+        "computed": 30
+      },
+      "huyện Mê Linh": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Mỹ Đức": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Phú Xuyên": {
+        "stated": 23,
+        "computed": 23
+      },
+      "huyện Phúc Thọ": {
+        "stated": 18,
+        "computed": 18
+      },
+      "huyện Quốc Oai": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Thạch Thất": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Thanh Oai": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Thường Tín": {
+        "stated": 27,
+        "computed": 27
+      },
+      "huyện Ứng Hòa": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Gia Lâm": {
+        "stated": 17,
+        "computed": 17
+      },
+      "quận Cầu Giấy": {
+        "stated": 8,
+        "computed": 8
+      },
+      "quận Đống Đa": {
+        "stated": 17,
+        "computed": 17
+      },
+      "quận Hà Đông": {
+        "stated": 15,
+        "computed": 15
+      },
+      "quận Hai Bà Trưng": {
+        "stated": 15,
+        "computed": 15
+      },
+      "quận Long Biên": {
+        "stated": 13,
+        "computed": 13
+      },
+      "quận Thanh Xuân": {
+        "stated": 9,
+        "computed": 9
+      },
+      "quận Ba Đình": {
+        "stated": 13,
+        "computed": 13
+      },
+      "thị xã Sơn Tây": {
+        "stated": 13,
+        "computed": 13
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ha-tinh-2024": {
+    "rows": 40,
+    "unread": [],
+    "province_total": {
+      "stated": 209,
+      "computed": 209
+    },
+    "district_counts": {
+      "huyện Hương Sơn": {
+        "stated": 22,
+        "computed": 22
+      },
+      "huyện Can Lộc": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Hương Khê": {
+        "stated": 20,
+        "computed": 20
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "hai-duong-2024": {
+    "rows": 57,
+    "unread": [],
+    "province_total": {
+      "stated": 207,
+      "computed": 207
+    },
+    "district_counts": {
+      "thành phố Hải Dương": {
+        "stated": 24,
+        "computed": 24
+      },
+      "thị xã Kinh Môn": {
+        "stated": 22,
+        "computed": 22
+      },
+      "huyện Bình Giang": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Thanh Hà": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Cẩm Giàng": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Kim Thành": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Ninh Giang": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Tứ Kỳ": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Nam Sách": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Gia Lộc": {
+        "stated": 14,
+        "computed": 14
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "hai-phong-2024": {
+    "rows": 108,
+    "unread": [],
+    "province_total": {
+      "stated": 167,
+      "computed": 167
+    },
+    "district_counts": {
+      "thành phố Thủy Nguyên": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Tiên Lãng": {
+        "stated": 19,
+        "computed": 19
+      },
+      "huyện Vĩnh Bảo": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Kiến Thụy": {
+        "stated": 16,
+        "computed": 16
+      },
+      "quận Ngô Quyền": {
+        "stated": 8,
+        "computed": 8
+      },
+      "quận Lê Chân": {
+        "stated": 7,
+        "computed": 7
+      },
+      "quận Kiến An": {
+        "stated": 7,
+        "computed": 7
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ho-chi-minh-2024": {
+    "rows": 83,
+    "unread": [],
+    "province_total": {
+      "stated": 273,
+      "computed": 273
+    },
+    "district_counts": {
+      "Quận 3": {
+        "stated": 10,
+        "computed": 10
+      },
+      "Quận 4": {
+        "stated": 10,
+        "computed": 10
+      },
+      "Quận 5": {
+        "stated": 10,
+        "computed": 10
+      },
+      "Quận 6": {
+        "stated": 10,
+        "computed": 10
+      },
+      "Quận 8": {
+        "stated": 10,
+        "computed": 10
+      },
+      "Quận 10": {
+        "stated": 11,
+        "computed": 11
+      },
+      "Quận 11": {
+        "stated": 10,
+        "computed": 10
+      },
+      "quận Bình Thạnh": {
+        "stated": 15,
+        "computed": 15
+      },
+      "quận Gò Vấp": {
+        "stated": 12,
+        "computed": 12
+      },
+      "quận Phú Nhuận": {
+        "stated": 11,
+        "computed": 11
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "hue-2024": {
+    "rows": 52,
+    "unread": [],
+    "province_total": {
+      "stated": 133,
+      "computed": 133
+    },
+    "district_counts": {
+      "thị xã Phong Điền": {
+        "stated": 12,
+        "computed": 12
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "hung-yen-2024": {
+    "rows": 44,
+    "unread": [],
+    "province_total": {
+      "stated": 139,
+      "computed": 139
+    },
+    "district_counts": {
+      "thành phố Hưng Yên": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Tiên Lữ": {
+        "stated": 11,
+        "computed": 11
+      },
+      "huyện Phù Cừ": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Kim Động": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Ân Thi": {
+        "stated": 18,
+        "computed": 18
+      },
+      "huyện Khoái Châu": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Yên Mỹ": {
+        "stated": 12,
+        "computed": 12
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "khanh-hoa-2024": {
+    "rows": 12,
+    "unread": [],
+    "province_total": {
+      "stated": 132,
+      "computed": 132
+    },
+    "district_counts": {
+      "thành phố Nha Trang": {
+        "stated": 22,
+        "computed": 22
+      },
+      "thị xã Ninh Hòa": {
+        "stated": 26,
+        "computed": 26
+      },
+      "huyện Diên Khánh": {
+        "stated": 17,
+        "computed": 17
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "kien-giang-2024": {
+    "rows": 2,
+    "unread": [],
+    "province_total": {
+      "stated": 143,
+      "computed": 143
+    },
+    "district_counts": {
+      "thành phố Rạch Giá": {
+        "stated": 11,
+        "computed": 11
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "lam-dong-2024": {
+    "rows": 13,
+    "unread": [],
+    "province_total": {
+      "stated": 137,
+      "computed": 137
+    },
+    "district_counts": {
+      "huyện Đạ Huoai": {
+        "stated": 23,
+        "computed": 23
+      },
+      "huyện Đơn Dương": {
+        "stated": 9,
+        "computed": 9
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "lang-son-2024": {
+    "rows": 13,
+    "unread": [],
+    "province_total": {
+      "stated": 194,
+      "computed": 194
+    },
+    "district_counts": {
+      "huyện Tràng Định": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Văn Quan": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Lộc Bình": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Hữu Lũng": {
+        "stated": 23,
+        "computed": 23
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "lao-cai-2024": {
+    "rows": 2,
+    "unread": [],
+    "province_total": {
+      "stated": 151,
+      "computed": 151
+    },
+    "district_counts": {
+      "huyện Bắc Hà": {
+        "stated": 18,
+        "computed": 18
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "long-an-2024": {
+    "rows": 8,
+    "unread": [],
+    "province_total": {
+      "stated": 186,
+      "computed": 186
+    },
+    "district_counts": {
+      "thành phố Tân An": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Bến Lức": {
+        "stated": 14,
+        "computed": 14
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "nghe-an-2024": {
+    "rows": 104,
+    "unread": [],
+    "province_total": {
+      "stated": 412,
+      "computed": 412
+    },
+    "district_counts": {
+      "huyện Đô Lương": {
+        "stated": 32,
+        "computed": 32
+      },
+      "huyện Tân Kỳ": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Nghĩa Đàn": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Quỳnh Lưu": {
+        "stated": 25,
+        "computed": 25
+      },
+      "huyện Con Cuông": {
+        "stated": 12,
+        "computed": 12
+      },
+      "huyện Thanh Chương": {
+        "stated": 29,
+        "computed": 29
+      },
+      "huyện Diễn Châu": {
+        "stated": 32,
+        "computed": 32
+      },
+      "huyện Hưng Nguyên": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Nam Đàn": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Yên Thành": {
+        "stated": 32,
+        "computed": 32
+      },
+      "huyện Anh Sơn": {
+        "stated": 19,
+        "computed": 19
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ninh-thuan-2024": {
+    "rows": 5,
+    "unread": [],
+    "province_total": {
+      "stated": 62,
+      "computed": 62
+    },
+    "district_counts": {
+      "thành phố Phan Rang - Tháp Chàm": {
+        "stated": 13,
+        "computed": 13
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "phu-tho-2024": {
+    "rows": 31,
+    "unread": [],
+    "province_total": {
+      "stated": 207,
+      "computed": 207
+    },
+    "district_counts": {
+      "thành phố Việt Trì": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Đoan Hùng": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Cẩm Khê": {
+        "stated": 16,
+        "computed": 16
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "phu-yen-2024": {
+    "rows": 10,
+    "unread": [],
+    "province_total": {
+      "stated": 106,
+      "computed": 106
+    },
+    "district_counts": {
+      "thành phố Tuy Hòa": {
+        "stated": 12,
+        "computed": 12
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "quang-binh-2024": {
+    "rows": 11,
+    "unread": [],
+    "province_total": {
+      "stated": 145,
+      "computed": 145
+    },
+    "district_counts": {
+      "huyện Minh Hóa": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Bố Trạch": {
+        "stated": 26,
+        "computed": 26
+      },
+      "huyện Quảng Trạch": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Quảng Ninh": {
+        "stated": 14,
+        "computed": 14
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "quang-nam-2024": {
+    "rows": 18,
+    "unread": [],
+    "province_total": {
+      "stated": 233,
+      "computed": 233
+    },
+    "district_counts": {
+      "huyện Quế Sơn": {
+        "stated": 18,
+        "computed": 18
+      },
+      "huyện Hiệp Đức": {
+        "stated": 10,
+        "computed": 10
+      },
+      "huyện Thăng Bình": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Duy Xuyên": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Tiên Phước": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Phú Ninh": {
+        "stated": 10,
+        "computed": 10
+      },
+      "thành phố Tam Kỳ": {
+        "stated": 12,
+        "computed": 12
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "quang-ngai-2024": {
+    "rows": 11,
+    "unread": [],
+    "province_total": {
+      "stated": 170,
+      "computed": 170
+    },
+    "district_counts": {
+      "thành phố Quảng Ngãi": {
+        "stated": 22,
+        "computed": 22
+      },
+      "huyện Mộ Đức": {
+        "stated": 12,
+        "computed": 12
+      },
+      "huyện Tư Nghĩa": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Sơn Tịnh": {
+        "stated": 11,
+        "computed": 11
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "quang-ninh-2024": {
+    "rows": 17,
+    "unread": [],
+    "province_total": {
+      "stated": 171,
+      "computed": 171
+    },
+    "district_counts": {
+      "thành phố Đông Triều": {
+        "stated": 19,
+        "computed": 19
+      },
+      "huyện Ba Chẽ": {
+        "stated": 7,
+        "computed": 7
+      },
+      "thành phố Cẩm Phả": {
+        "stated": 15,
+        "computed": 15
+      },
+      "thành phố Móng Cái": {
+        "stated": 16,
+        "computed": 16
+      },
+      "thành phố Hạ Long": {
+        "stated": 32,
+        "computed": 32
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "quang-tri-2024": {
+    "rows": 14,
+    "unread": [],
+    "province_total": {
+      "stated": 119,
+      "computed": 119
+    },
+    "district_counts": {
+      "huyện Gio Linh": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Triệu Phong": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Hải Lăng": {
+        "stated": 15,
+        "computed": 15
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "soc-trang-2024": {
+    "rows": 2,
+    "unread": [],
+    "province_total": {
+      "stated": 108,
+      "computed": 108
+    },
+    "district_counts": {
+      "thành phố Sóc Trăng": {
+        "stated": 9,
+        "computed": 9
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "son-la-2024": {
+    "rows": 50,
+    "unread": [],
+    "province_total": {
+      "stated": 200,
+      "computed": 200
+    },
+    "district_counts": {
+      "thị xã Mộc Châu": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Thuận Châu": {
+        "stated": 28,
+        "computed": 28
+      },
+      "huyện Phù Yên": {
+        "stated": 25,
+        "computed": 25
+      },
+      "huyện Yên Châu": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Sông Mã": {
+        "stated": 19,
+        "computed": 19
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "thai-binh-2024": {
+    "rows": 28,
+    "unread": [],
+    "province_total": {
+      "stated": 242,
+      "computed": 242
+    },
+    "district_counts": {
+      "huyện Đông Hưng": {
+        "stated": 32,
+        "computed": 32
+      },
+      "huyện Quỳnh Phụ": {
+        "stated": 35,
+        "computed": 35
+      },
+      "huyện Kiến Xương": {
+        "stated": 29,
+        "computed": 29
+      },
+      "huyện Tiền Hải": {
+        "stated": 28,
+        "computed": 28
+      },
+      "huyện Hưng Hà": {
+        "stated": 33,
+        "computed": 33
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "thai-nguyen-2024": {
+    "rows": 14,
+    "unread": [],
+    "province_total": {
+      "stated": 172,
+      "computed": 172
+    },
+    "district_counts": {
+      "huyện Đại Từ": {
+        "stated": 27,
+        "computed": 27
+      },
+      "huyện Đồng Hỷ": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Định Hóa": {
+        "stated": 22,
+        "computed": 22
+      },
+      "huyện Phú Lương": {
+        "stated": 14,
+        "computed": 14
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "thanh-hoa-2024": {
+    "rows": 40,
+    "unread": [],
+    "province_total": {
+      "stated": 547,
+      "computed": 547
+    },
+    "district_counts": {
+      "thành phố Thanh Hóa": {
+        "stated": 47,
+        "computed": 47
+      },
+      "thành phố Sầm Sơn": {
+        "stated": 10,
+        "computed": 10
+      },
+      "thị xã Nghi Sơn": {
+        "stated": 30,
+        "computed": 30
+      },
+      "huyện Hậu Lộc": {
+        "stated": 22,
+        "computed": 22
+      },
+      "huyện Nga Sơn": {
+        "stated": 23,
+        "computed": 23
+      },
+      "huyện Hoằng Hóa": {
+        "stated": 36,
+        "computed": 36
+      },
+      "huyện Hà Trung": {
+        "stated": 19,
+        "computed": 19
+      },
+      "huyện Thạch Thành": {
+        "stated": 24,
+        "computed": 24
+      },
+      "huyện Triệu Sơn": {
+        "stated": 32,
+        "computed": 32
+      },
+      "huyện Yên Định": {
+        "stated": 25,
+        "computed": 25
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "tien-giang-2024": {
+    "rows": 20,
+    "unread": [],
+    "province_total": {
+      "stated": 164,
+      "computed": 164
+    },
+    "district_counts": {
+      "huyện Châu Thành": {
+        "stated": 20,
+        "computed": 20
+      },
+      "thành phố Mỹ Tho": {
+        "stated": 14,
+        "computed": 14
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "tra-vinh-2024": {
+    "rows": 3,
+    "unread": [],
+    "province_total": {
+      "stated": 104,
+      "computed": 104
+    },
+    "district_counts": {
+      "thành phố Trà Vinh": {
+        "stated": 8,
+        "computed": 8
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "tuyen-quang-2024": {
+    "rows": 2,
+    "unread": [],
+    "province_total": {
+      "stated": 137,
+      "computed": 137
+    },
+    "district_counts": {
+      "huyện Sơn Dương": {
+        "stated": 30,
+        "computed": 30
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "vinh-long-2024": {
+    "rows": 10,
+    "unread": [],
+    "province_total": {
+      "stated": 102,
+      "computed": 102
+    },
+    "district_counts": {
+      "huyện Bình Tân": {
+        "stated": 9,
+        "computed": 9
+      },
+      "thành phố Vĩnh Long": {
+        "stated": 10,
+        "computed": 10
+      },
+      "huyện Long Hồ": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Trà Ôn": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Tam Bình": {
+        "stated": 16,
+        "computed": 16
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "vinh-phuc-2024": {
+    "rows": 28,
+    "unread": [],
+    "province_total": {
+      "stated": 121,
+      "computed": 121
+    },
+    "district_counts": {
+      "thành phố Phúc Yên": {
+        "stated": 9,
+        "computed": 9
+      },
+      "huyện Vĩnh Tường": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Sông Lô": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Yên Lạc": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Lập Thạch": {
+        "stated": 19,
+        "computed": 19
+      },
+      "huyện Tam Dương": {
+        "stated": 12,
+        "computed": 12
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "yen-bai-2024": {
+    "rows": 10,
+    "unread": [],
+    "province_total": {
+      "stated": 168,
+      "computed": 168
+    },
+    "district_counts": {
+      "huyện Yên Bình": {
+        "stated": 23,
+        "computed": 23
+      },
+      "thành phố Yên Bái": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Trấn Yên": {
+        "stated": 18,
+        "computed": 18
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "an-giang-2020": {
+    "rows": 3,
+    "unread": [],
+    "province_total": {
+      "stated": null,
+      "computed": 156
+    },
+    "district_counts": {},
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "bac-giang-2020": {
+    "rows": 40,
+    "unread": [],
+    "province_total": {
+      "stated": 209,
+      "computed": 209
+    },
+    "district_counts": {
+      "huyện Sơn Động": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Lục Ngạn": {
+        "stated": 29,
+        "computed": 29
+      },
+      "huyện Lục Nam": {
+        "stated": 25,
+        "computed": 25
+      },
+      "huyện Lạng Giang": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Yên Thế": {
+        "stated": 19,
+        "computed": 19
+      },
+      "huyện Tân Yên": {
+        "stated": 22,
+        "computed": 22
+      },
+      "huyện Việt Yên": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Hiệp Hòa": {
+        "stated": 25,
+        "computed": 25
+      },
+      "huyện Yên Dũng": {
+        "stated": 18,
+        "computed": 0
+      }
+    },
+    "count_mismatches": {
+      "huyện Yên Dũng": {
+        "stated": 18,
+        "computed": 0
+      }
+    },
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "bac-kan-2020": {
+    "rows": 33,
+    "unread": [],
+    "province_total": {
+      "stated": 108,
+      "computed": 108
+    },
+    "district_counts": {
+      "huyện Ngân Sơn": {
+        "stated": 10,
+        "computed": 10
+      },
+      "huyện Na Rì": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Bạch Thông": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Chợ Đồn": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Chợ Mới": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Ba Bể": {
+        "stated": 15,
+        "computed": 15
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "bac-ninh-2020": {
+    "rows": 8,
+    "unread": [],
+    "province_total": {
+      "stated": null,
+      "computed": 126
+    },
+    "district_counts": {},
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ben-tre-2020": {
+    "rows": 13,
+    "unread": [],
+    "province_total": {
+      "stated": 157,
+      "computed": 157
+    },
+    "district_counts": {
+      "thành phố Bến Tre": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Châu Thành": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Ba Tri": {
+        "stated": 23,
+        "computed": 23
+      },
+      "huyện Giồng Trôm": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Mỏ Cày Nam": {
+        "stated": 16,
+        "computed": 16
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "binh-dinh-2020": {
+    "rows": 13,
+    "unread": [],
+    "province_total": {
+      "stated": 159,
+      "computed": 159
+    },
+    "district_counts": {},
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "binh-duong-2020": {
+    "rows": 7,
+    "unread": [],
+    "province_total": {
+      "stated": 91,
+      "computed": 91
+    },
+    "district_counts": {},
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "can-tho-2020": {
+    "rows": 3,
+    "unread": [],
+    "province_total": {
+      "stated": 83,
+      "computed": 83
+    },
+    "district_counts": {
+      "quận Ninh Kiều": {
+        "stated": 11,
+        "computed": 11
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "cao-bang-2020": {
+    "rows": 88,
+    "unread": [],
+    "province_total": {
+      "stated": 161,
+      "computed": 161
+    },
+    "district_counts": {
+      "huyện Hà Quảng": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Bảo Lâm": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Hạ Lang": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Hòa An": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Phục Hòa": {
+        "stated": 7,
+        "computed": 0
+      },
+      "huyện Quảng Uyên": {
+        "stated": 11,
+        "computed": 0
+      },
+      "huyện Nguyên Bình": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Thạch An": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Trà Lĩnh": {
+        "stated": 8,
+        "computed": 0
+      },
+      "huyện Trùng Khánh": {
+        "stated": 14,
+        "computed": 21
+      }
+    },
+    "count_mismatches": {
+      "huyện Phục Hòa": {
+        "stated": 7,
+        "computed": 0
+      },
+      "huyện Quảng Uyên": {
+        "stated": 11,
+        "computed": 0
+      },
+      "huyện Trà Lĩnh": {
+        "stated": 8,
+        "computed": 0
+      },
+      "huyện Trùng Khánh": {
+        "stated": 14,
+        "computed": 21
+      }
+    },
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "dak-nong-2020": {
+    "rows": 10,
+    "unread": [],
+    "province_total": {
+      "stated": null,
+      "computed": 71
+    },
+    "district_counts": {},
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "dien-bien-2020": {
+    "rows": 9,
+    "unread": [],
+    "province_total": {
+      "stated": 129,
+      "computed": 129
+    },
+    "district_counts": {
+      "huyện Tủa Chùa": {
+        "stated": 12,
+        "computed": 12
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "dong-nai-2020": {
+    "rows": 19,
+    "unread": [],
+    "province_total": {
+      "stated": 170,
+      "computed": 170
+    },
+    "district_counts": {},
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "dong-thap-2020": {
+    "rows": 5,
+    "unread": [],
+    "province_total": {
+      "stated": 143,
+      "computed": 143
+    },
+    "district_counts": {
+      "huyện Hồng Ngự": {
+        "stated": 10,
+        "computed": 10
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "gia-lai-2020": {
+    "rows": 4,
+    "unread": [],
+    "province_total": {
+      "stated": 220,
+      "computed": 220
+    },
+    "district_counts": {
+      "thành phố Pleiku": {
+        "stated": 22,
+        "computed": 22
+      },
+      "huyện Chư Păh": {
+        "stated": 14,
+        "computed": 14
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ha-giang-2020": {
+    "rows": 4,
+    "unread": [],
+    "province_total": {
+      "stated": 193,
+      "computed": 193
+    },
+    "district_counts": {
+      "huyện Hoàng Su Phì": {
+        "stated": 24,
+        "computed": 24
+      },
+      "huyện Xín Mần": {
+        "stated": 18,
+        "computed": 18
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ha-noi-2020": {
+    "rows": 15,
+    "unread": [],
+    "province_total": {
+      "stated": 579,
+      "computed": 579
+    },
+    "district_counts": {
+      "quận Hai Bà Trưng": {
+        "stated": 18,
+        "computed": 18
+      },
+      "huyện Phúc Thọ": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Phú Xuyên": {
+        "stated": 27,
+        "computed": 27
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ha-tinh-2020": {
+    "rows": 85,
+    "unread": [],
+    "province_total": {
+      "stated": 216,
+      "computed": 216
+    },
+    "district_counts": {
+      "thành phố Hà Tĩnh": {
+        "stated": 15,
+        "computed": 15
+      },
+      "thị xã Kỳ Anh": {
+        "stated": 11,
+        "computed": 11
+      },
+      "huyện Kỳ Anh": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Cẩm Xuyên": {
+        "stated": 23,
+        "computed": 23
+      },
+      "huyện Thạch Hà": {
+        "stated": 22,
+        "computed": 33
+      },
+      "huyện Lộc Hà": {
+        "stated": 12,
+        "computed": 1
+      },
+      "huyện Can Lộc": {
+        "stated": 18,
+        "computed": 18
+      },
+      "huyện Nghi Xuân": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Hương Sơn": {
+        "stated": 25,
+        "computed": 25
+      },
+      "huyện Vũ Quang": {
+        "stated": 10,
+        "computed": 10
+      },
+      "huyện Hương Khê": {
+        "stated": 21,
+        "computed": 21
+      }
+    },
+    "count_mismatches": {
+      "huyện Thạch Hà": {
+        "stated": 22,
+        "computed": 33
+      },
+      "huyện Lộc Hà": {
+        "stated": 12,
+        "computed": 1
+      }
+    },
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "hai-duong-2020": {
+    "rows": 69,
+    "unread": [],
+    "province_total": {
+      "stated": 235,
+      "computed": 235
+    },
+    "district_counts": {
+      "huyện Bình Giang": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Cẩm Giàng": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Kim Thành": {
+        "stated": 18,
+        "computed": 18
+      },
+      "huyện Ninh Giang": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Thanh Miện": {
+        "stated": 17,
+        "computed": 17
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "hai-phong-2020": {
+    "rows": 12,
+    "unread": [],
+    "province_total": {
+      "stated": 217,
+      "computed": 217
+    },
+    "district_counts": {
+      "quận Hồng Bàng": {
+        "stated": 9,
+        "computed": 9
+      },
+      "quận Ngô Quyền": {
+        "stated": 12,
+        "computed": 12
+      },
+      "quận Đồ Sơn": {
+        "stated": 6,
+        "computed": 6
+      },
+      "huyện Tiên Lãng": {
+        "stated": 21,
+        "computed": 21
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "hau-giang-2020": {
+    "rows": 6,
+    "unread": [],
+    "province_total": {
+      "stated": 75,
+      "computed": 75
+    },
+    "district_counts": {
+      "huyện Châu Thành": {
+        "stated": 8,
+        "computed": 8
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "ho-chi-minh-2020": {
+    "rows": 22,
+    "unread": [],
+    "province_total": {
+      "stated": 312,
+      "computed": 312
+    },
+    "district_counts": {
+      "Quận 3": {
+        "stated": 12,
+        "computed": 12
+      },
+      "Quận 4": {
+        "stated": 13,
+        "computed": 13
+      },
+      "Quận 5": {
+        "stated": 14,
+        "computed": 14
+      },
+      "Quận 10": {
+        "stated": 14,
+        "computed": 14
+      },
+      "quận Phú Nhuận": {
+        "stated": 13,
+        "computed": 13
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "hoa-binh-2020": {
+    "rows": 116,
+    "unread": [],
+    "province_total": {
+      "stated": 151,
+      "computed": 151
+    },
+    "district_counts": {
+      "thành phố Hòa Bình": {
+        "stated": 19,
+        "computed": 19
+      },
+      "huyện Cao Phong": {
+        "stated": 10,
+        "computed": 10
+      },
+      "huyện Đà Bắc": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Kim Bôi": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Lạc Sơn": {
+        "stated": 24,
+        "computed": 24
+      },
+      "huyện Lạc Thủy": {
+        "stated": 10,
+        "computed": 10
+      },
+      "huyện Lương Sơn": {
+        "stated": 11,
+        "computed": 11
+      },
+      "huyện Mai Châu": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Tân Lạc": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Yên Thủy": {
+        "stated": 11,
+        "computed": 11
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "khanh-hoa-2020": {
+    "rows": 2,
+    "unread": [],
+    "province_total": {
+      "stated": 139,
+      "computed": 139
+    },
+    "district_counts": {
+      "huyện Diên Khánh": {
+        "stated": 18,
+        "computed": 18
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "kien-giang-2020": {
+    "rows": 4,
+    "unread": [],
+    "province_total": {
+      "stated": null,
+      "computed": 144
+    },
+    "district_counts": {},
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "kon-tum-2020": {
+    "rows": 1,
+    "unread": [],
+    "province_total": {
+      "stated": null,
+      "computed": 102
+    },
+    "district_counts": {},
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "lai-chau-2020": {
+    "rows": 5,
+    "unread": [],
+    "province_total": {
+      "stated": 106,
+      "computed": 106
+    },
+    "district_counts": {
+      "huyện Phong Thổ": {
+        "stated": 17,
+        "computed": 17
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "lam-dong-2020": {
+    "rows": 10,
+    "unread": [],
+    "province_total": {
+      "stated": 142,
+      "computed": 142
+    },
+    "district_counts": {
+      "huyện Cát Tiên": {
+        "stated": 9,
+        "computed": 0
+      },
+      "huyện Đạ Tẻh": {
+        "stated": 9,
+        "computed": 0
+      },
+      "huyện Đạ Huoai": {
+        "stated": 9,
+        "computed": 27
+      }
+    },
+    "count_mismatches": {
+      "huyện Cát Tiên": {
+        "stated": 9,
+        "computed": 0
+      },
+      "huyện Đạ Tẻh": {
+        "stated": 9,
+        "computed": 0
+      },
+      "huyện Đạ Huoai": {
+        "stated": 9,
+        "computed": 27
+      }
+    },
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "lang-son-2020": {
+    "rows": 58,
+    "unread": [],
+    "province_total": {
+      "stated": 200,
+      "computed": 200
+    },
+    "district_counts": {
+      "huyện Tràng Định": {
+        "stated": 22,
+        "computed": 22
+      },
+      "huyện Văn Lãng": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Lộc Bình": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Cao Lộc": {
+        "stated": 22,
+        "computed": 22
+      },
+      "huyện Chi Lăng": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Hữu Lũng": {
+        "stated": 24,
+        "computed": 24
+      },
+      "huyện Bắc Sơn": {
+        "stated": 18,
+        "computed": 18
+      },
+      "huyện Bình Gia": {
+        "stated": 19,
+        "computed": 19
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "lao-cai-2020": {
+    "rows": 71,
+    "unread": [],
+    "province_total": {
+      "stated": 152,
+      "computed": 152
+    },
+    "district_counts": {
+      "huyện Bảo Yên": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Văn Bàn": {
+        "stated": 22,
+        "computed": 22
+      },
+      "huyện Si Ma Cai": {
+        "stated": 10,
+        "computed": 10
+      },
+      "huyện Bắc Hà": {
+        "stated": 19,
+        "computed": 19
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "long-an-2020": {
+    "rows": 11,
+    "unread": [],
+    "province_total": {
+      "stated": 188,
+      "computed": 188
+    },
+    "district_counts": {
+      "huyện Cần Giuộc": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Tân Trụ": {
+        "stated": 10,
+        "computed": 10
+      },
+      "huyện Thủ Thừa": {
+        "stated": 12,
+        "computed": 12
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "nghe-an-2020": {
+    "rows": 43,
+    "unread": [],
+    "province_total": {
+      "stated": 460,
+      "computed": 460
+    },
+    "district_counts": {
+      "huyện Quế Phong": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Tương Dương": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Thanh Chương": {
+        "stated": 38,
+        "computed": 38
+      },
+      "huyện Diễn Châu": {
+        "stated": 37,
+        "computed": 37
+      },
+      "huyện Nghi Lộc": {
+        "stated": 29,
+        "computed": 29
+      },
+      "huyện Nam Đàn": {
+        "stated": 19,
+        "computed": 19
+      },
+      "thị xã Thái Hòa": {
+        "stated": 9,
+        "computed": 9
+      },
+      "huyện Nghĩa Đàn": {
+        "stated": 23,
+        "computed": 23
+      },
+      "huyện Hưng Nguyên": {
+        "stated": 18,
+        "computed": 18
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "phu-tho-2020": {
+    "rows": 81,
+    "unread": [],
+    "province_total": {
+      "stated": 225,
+      "computed": 225
+    },
+    "district_counts": {
+      "thành phố Việt Trì": {
+        "stated": 22,
+        "computed": 22
+      },
+      "thị xã Phú Thọ": {
+        "stated": 9,
+        "computed": 9
+      },
+      "huyện Hạ Hòa": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Thanh Ba": {
+        "stated": 19,
+        "computed": 19
+      },
+      "huyện Cẩm Khê": {
+        "stated": 24,
+        "computed": 24
+      },
+      "huyện Tam Nông": {
+        "stated": 12,
+        "computed": 12
+      },
+      "huyện Đoan Hùng": {
+        "stated": 22,
+        "computed": 22
+      },
+      "huyện Thanh Thủy": {
+        "stated": 11,
+        "computed": 11
+      },
+      "huyện Phù Ninh": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Lâm Thao": {
+        "stated": 12,
+        "computed": 12
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "phu-yen-2020": {
+    "rows": 10,
+    "unread": [],
+    "province_total": {
+      "stated": 110,
+      "computed": 110
+    },
+    "district_counts": {
+      "thị xã Sông Cầu": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Tuy An": {
+        "stated": 15,
+        "computed": 15
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "quang-binh-2020": {
+    "rows": 17,
+    "unread": [],
+    "province_total": {
+      "stated": 151,
+      "computed": 151
+    },
+    "district_counts": {
+      "huyện Lệ Thủy": {
+        "stated": 26,
+        "computed": 26
+      },
+      "thành phố Đồng Hới": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Bố Trạch": {
+        "stated": 28,
+        "computed": 28
+      },
+      "huyện Quảng Trạch": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Tuyên Hóa": {
+        "stated": 19,
+        "computed": 19
+      },
+      "huyện Minh Hóa": {
+        "stated": 15,
+        "computed": 15
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "quang-nam-2020": {
+    "rows": 7,
+    "unread": [],
+    "province_total": {
+      "stated": 241,
+      "computed": 241
+    },
+    "district_counts": {
+      "huyện Quế Sơn": {
+        "stated": 13,
+        "computed": 19
+      },
+      "huyện Nông Sơn": {
+        "stated": 6,
+        "computed": 0
+      },
+      "huyện Hiệp Đức": {
+        "stated": 11,
+        "computed": 11
+      }
+    },
+    "count_mismatches": {
+      "huyện Quế Sơn": {
+        "stated": 13,
+        "computed": 19
+      },
+      "huyện Nông Sơn": {
+        "stated": 6,
+        "computed": 0
+      }
+    },
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "quang-ngai-2020": {
+    "rows": 29,
+    "unread": [],
+    "province_total": {
+      "stated": 173,
+      "computed": 173
+    },
+    "district_counts": {
+      "huyện Trà Bồng": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Bình Sơn": {
+        "stated": 22,
+        "computed": 22
+      },
+      "huyện Tư Nghĩa": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Ba Tơ": {
+        "stated": 19,
+        "computed": 19
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "quang-ninh-2020": {
+    "rows": 23,
+    "unread": [],
+    "province_total": {
+      "stated": 177,
+      "computed": 177
+    },
+    "district_counts": {
+      "thành phố Hạ Long": {
+        "stated": 33,
+        "computed": 33
+      },
+      "huyện Hải Hà": {
+        "stated": 11,
+        "computed": 11
+      },
+      "thành phố Uông Bí": {
+        "stated": 10,
+        "computed": 10
+      },
+      "huyện Đầm Hà": {
+        "stated": 9,
+        "computed": 9
+      },
+      "huyện Tiên Yên": {
+        "stated": 11,
+        "computed": 11
+      },
+      "huyện Bình Liêu": {
+        "stated": 7,
+        "computed": 7
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "quang-tri-2020": {
+    "rows": 34,
+    "unread": [],
+    "province_total": {
+      "stated": 125,
+      "computed": 125
+    },
+    "district_counts": {
+      "huyện Hải Lăng": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Triệu Phong": {
+        "stated": 18,
+        "computed": 18
+      },
+      "huyện Cam Lộ": {
+        "stated": 8,
+        "computed": 8
+      },
+      "huyện Đakrông": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Hướng Hóa": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Gio Linh": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Vĩnh Linh": {
+        "stated": 18,
+        "computed": 18
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "tay-ninh-2020": {
+    "rows": 15,
+    "unread": [],
+    "province_total": {
+      "stated": 94,
+      "computed": 94
+    },
+    "district_counts": {},
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "thai-binh-2020": {
+    "rows": 47,
+    "unread": [],
+    "province_total": {
+      "stated": 260,
+      "computed": 260
+    },
+    "district_counts": {
+      "huyện Tiền Hải": {
+        "stated": 32,
+        "computed": 32
+      },
+      "huyện Đông Hưng": {
+        "stated": 38,
+        "computed": 38
+      },
+      "huyện Thái Thụy": {
+        "stated": 36,
+        "computed": 36
+      },
+      "huyện Kiến Xương": {
+        "stated": 33,
+        "computed": 33
+      },
+      "huyện Quỳnh Phụ": {
+        "stated": 37,
+        "computed": 37
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "thai-nguyen-2020": {
+    "rows": 4,
+    "unread": [],
+    "province_total": {
+      "stated": 178,
+      "computed": 177,
+      "accepted": "Tổng số xã cấp tỉnh lệch 1 so với câu tổng kết của nghị quyết: chưa tìm được nghị quyết 469/NQ-UBTVQH15 (thành lập thành phố Phổ Yên, 2022). Không có trên Công báo (dải id 29000-45600 đã quét đủ) và trên vanban.chinhphu.vn. Đã duyệt và chấp nhận ngày 27/11/2026."
+    },
+    "district_counts": {
+      "huyện Định Hóa": {
+        "stated": 23,
+        "computed": 23
+      },
+      "thành phố Sông Công": {
+        "stated": 10,
+        "computed": 10
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "thanh-hoa-2020": {
+    "rows": 176,
+    "unread": [],
+    "province_total": {
+      "stated": 559,
+      "computed": 559
+    },
+    "district_counts": {
+      "thành phố Thanh Hóa": {
+        "stated": 34,
+        "computed": 48
+      },
+      "thị xã Bỉm Sơn": {
+        "stated": 7,
+        "computed": 7
+      },
+      "huyện Nga Sơn": {
+        "stated": 24,
+        "computed": 24
+      },
+      "huyện Hà Trung": {
+        "stated": 20,
+        "computed": 20
+      },
+      "huyện Hậu Lộc": {
+        "stated": 23,
+        "computed": 23
+      },
+      "huyện Hoằng Hóa": {
+        "stated": 37,
+        "computed": 37
+      },
+      "huyện Quảng Xương": {
+        "stated": 26,
+        "computed": 26
+      },
+      "huyện Nông Cống": {
+        "stated": 29,
+        "computed": 29
+      },
+      "huyện Tĩnh Gia": {
+        "stated": 31,
+        "computed": 31
+      },
+      "huyện Đông Sơn": {
+        "stated": 14,
+        "computed": 0
+      },
+      "huyện Thiệu Hóa": {
+        "stated": 25,
+        "computed": 25
+      },
+      "huyện Yên Định": {
+        "stated": 26,
+        "computed": 26
+      },
+      "huyện Vĩnh Lộc": {
+        "stated": 13,
+        "computed": 13
+      },
+      "huyện Triệu Sơn": {
+        "stated": 34,
+        "computed": 34
+      },
+      "huyện Thọ Xuân": {
+        "stated": 30,
+        "computed": 30
+      },
+      "huyện Mường Lát": {
+        "stated": 8,
+        "computed": 8
+      },
+      "huyện Quan Hóa": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Quan Sơn": {
+        "stated": 12,
+        "computed": 12
+      },
+      "huyện Lang Chánh": {
+        "stated": 10,
+        "computed": 10
+      },
+      "huyện Bá Thước": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Ngọc Lặc": {
+        "stated": 21,
+        "computed": 21
+      },
+      "huyện Cẩm Thủy": {
+        "stated": 17,
+        "computed": 17
+      },
+      "huyện Thạch Thành": {
+        "stated": 25,
+        "computed": 25
+      },
+      "huyện Như Thanh": {
+        "stated": 14,
+        "computed": 14
+      },
+      "huyện Như Xuân": {
+        "stated": 16,
+        "computed": 16
+      },
+      "huyện Thường Xuân": {
+        "stated": 16,
+        "computed": 16
+      }
+    },
+    "count_mismatches": {
+      "thành phố Thanh Hóa": {
+        "stated": 34,
+        "computed": 48
+      },
+      "huyện Đông Sơn": {
+        "stated": 14,
+        "computed": 0
+      }
+    },
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "thua-thien-hue-2020": {
+    "rows": 41,
+    "unread": [],
+    "province_total": {
+      "stated": 141,
+      "computed": 141
+    },
+    "district_counts": {
+      "thị xã Hương Trà": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Phú Lộc": {
+        "stated": 17,
+        "computed": 27
+      },
+      "huyện A Lưới": {
+        "stated": 18,
+        "computed": 18
+      },
+      "huyện Nam Đông": {
+        "stated": 10,
+        "computed": 0
+      },
+      "huyện Phú Vang": {
+        "stated": 19,
+        "computed": 19
+      }
+    },
+    "count_mismatches": {
+      "huyện Phú Lộc": {
+        "stated": 17,
+        "computed": 27
+      },
+      "huyện Nam Đông": {
+        "stated": 10,
+        "computed": 0
+      }
+    },
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "tien-giang-2020": {
+    "rows": 2,
+    "unread": [],
+    "province_total": {
+      "stated": 172,
+      "computed": 172
+    },
+    "district_counts": {
+      "huyện Tân Phước": {
+        "stated": 12,
+        "computed": 12
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "tuyen-quang-2020": {
+    "rows": 18,
+    "unread": [],
+    "province_total": {
+      "stated": 138,
+      "computed": 138
+    },
+    "district_counts": {
+      "huyện Sơn Dương": {
+        "stated": 31,
+        "computed": 31
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "vinh-long-2020": {
+    "rows": 17,
+    "unread": [],
+    "province_total": {
+      "stated": 107,
+      "computed": 107
+    },
+    "district_counts": {
+      "huyện Mang Thít": {
+        "stated": 12,
+        "computed": 12
+      },
+      "huyện Bình Tân": {
+        "stated": 10,
+        "computed": 10
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "vinh-phuc-2020": {
+    "rows": 6,
+    "unread": [],
+    "province_total": {
+      "stated": 136,
+      "computed": 136
+    },
+    "district_counts": {
+      "huyện Vĩnh Tường": {
+        "stated": 28,
+        "computed": 28
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  },
+  "yen-bai-2020": {
+    "rows": 23,
+    "unread": [],
+    "province_total": {
+      "stated": 173,
+      "computed": 173
+    },
+    "district_counts": {
+      "thành phố Yên Bái": {
+        "stated": 15,
+        "computed": 15
+      },
+      "huyện Yên Bình": {
+        "stated": 24,
+        "computed": 24
+      },
+      "huyện Văn Yên": {
+        "stated": 25,
+        "computed": 25
+      },
+      "huyện Trấn Yên": {
+        "stated": 21,
+        "computed": 21
+      }
+    },
+    "count_mismatches": {},
+    "new_names_not_in_next_state": [],
+    "suspicious_old_names": []
+  }
+}
