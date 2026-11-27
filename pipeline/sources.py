@@ -23,7 +23,7 @@ class Source:
     title: str
     signed_pdf: str  # scanned, signed copy ("" when its address is not known)
     landing_page: str  # vanban.chinhphu.vn entry
-    gazette_page: str  # congbao.chinhphu.vn entry listing the text PDF/DOC downloads
+    gazette_page: str  # congbao.chinhphu.vn entry listing the text PDF/DOC downloads ("" if none)
 
 
 SOURCES: tuple[Source, ...] = (
@@ -111,6 +111,54 @@ SOURCES: tuple[Source, ...] = (
         signed_pdf="",
         landing_page="https://congbao.chinhphu.vn/van-ban/x-30660.htm",
         gazette_page="https://congbao.chinhphu.vn/van-ban/x-30660.htm",
+    ),
+    # After 1 July 2025: changes to the units listed in Decision 19/2025. 237/NQ-UBTVQH16,
+    # 30/2026/QH16, 36/2026/QH16 and 39/2026/QH16 are not on the Official Gazette; only their
+    # signed scans are published.
+    Source(
+        doc_id="237/NQ-UBTVQH16",
+        kind="unit_change",
+        scope="dong-nai-2026",
+        title="Về việc thành lập 10 phường thuộc tỉnh Đồng Nai",
+        signed_pdf="https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/nq-237.pdf",
+        landing_page="https://vanban.chinhphu.vn/?pageid=27160&docid=217876",
+        gazette_page="",
+    ),
+    Source(
+        doc_id="30/2026/QH16",
+        kind="unit_change",
+        scope="dong-nai-2026",
+        title="Về việc thành lập thành phố Đồng Nai",
+        signed_pdf="https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/nq30_nqthanhlaptpdongnai.pdf",
+        landing_page="https://vanban.chinhphu.vn/?pageid=27160&docid=218009",
+        gazette_page="",
+    ),
+    Source(
+        doc_id="388/NQ-UBTVQH16",
+        kind="unit_change",
+        scope="bac-ninh-2026",
+        title="Về việc thành lập các phường thuộc tỉnh Bắc Ninh",
+        signed_pdf="",
+        landing_page="https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-388-nq-ubtvqh16-470313.htm",
+        gazette_page="https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-388-nq-ubtvqh16-470313.htm",
+    ),
+    Source(
+        doc_id="36/2026/QH16",
+        kind="unit_change",
+        scope="quang-ninh-2026",
+        title="Về việc thành lập thành phố Quảng Ninh",
+        signed_pdf="https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/9/nq36.nqtl_tpqn_0001_1.signed.pdf",
+        landing_page="https://vanban.chinhphu.vn/?pageid=27160&docid=219325",
+        gazette_page="",
+    ),
+    Source(
+        doc_id="39/2026/QH16",
+        kind="unit_change",
+        scope="bac-ninh-2026",
+        title="Về việc thành lập thành phố Bắc Ninh",
+        signed_pdf="https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/9/nq39.nqtl_tpbn_0001.signed.pdf",
+        landing_page="https://vanban.chinhphu.vn/?pageid=27160&docid=219328",
+        gazette_page="",
     ),
 )
 

@@ -93,14 +93,15 @@ def fetch(source: Source, client: httpx.Client) -> dict[str, object]:
                 "signed_scan",
             )
         )
-    time.sleep(1)
-    page = client.get(source.gazette_page)
-    page.raise_for_status()
-    links = gazette_files(page.text)
-    if not links:
-        raise httpx.HTTPError(f"no PDF/DOC download link found on {source.gazette_page}")
-    for url, name in links:
-        files.append(save(client, url, folder / f"gazette_{name}", "gazette_text"))
+    if source.gazette_page:  # some documents are published only as a signed scan
+        time.sleep(1)
+        page = client.get(source.gazette_page)
+        page.raise_for_status()
+        links = gazette_files(page.text)
+        if not links:
+            raise httpx.HTTPError(f"no PDF/DOC download link found on {source.gazette_page}")
+        for url, name in links:
+            files.append(save(client, url, folder / f"gazette_{name}", "gazette_text"))
     return {
         "doc_id": source.doc_id,
         "kind": source.kind,

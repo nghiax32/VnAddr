@@ -3152,6 +3152,66 @@
     "scope": "national",
     "title": "Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam"
   },
+  "237/NQ-UBTVQH16": {
+    "doc_id": "237/NQ-UBTVQH16",
+    "files": [
+      {
+        "bytes": 949303,
+        "content_type": "application/pdf",
+        "fetched_at": "2026-11-27T07:20:49+00:00",
+        "path": "data/raw/dong-nai-2026/nq-237.pdf",
+        "role": "signed_scan",
+        "sha256": "9a8232a6b7496e7ce16698c975ff361b5a3352dc2cf7e1eedf28e58a8b1d0483",
+        "tier": 1,
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/nq-237.pdf"
+      }
+    ],
+    "gazette_page": "",
+    "kind": "unit_change",
+    "landing_page": "https://vanban.chinhphu.vn/?pageid=27160&docid=217876",
+    "scope": "dong-nai-2026",
+    "title": "Về việc thành lập 10 phường thuộc tỉnh Đồng Nai"
+  },
+  "30/2026/QH16": {
+    "doc_id": "30/2026/QH16",
+    "files": [
+      {
+        "bytes": 1289601,
+        "content_type": "application/pdf",
+        "fetched_at": "2026-11-27T07:20:51+00:00",
+        "path": "data/raw/dong-nai-2026/nq30_nqthanhlaptpdongnai.pdf",
+        "role": "signed_scan",
+        "sha256": "7e29f9973149c2f86ba72c2c05a979da1a0656f7fc40590bf818eb9cb3321ecb",
+        "tier": 1,
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/nq30_nqthanhlaptpdongnai.pdf"
+      }
+    ],
+    "gazette_page": "",
+    "kind": "unit_change",
+    "landing_page": "https://vanban.chinhphu.vn/?pageid=27160&docid=218009",
+    "scope": "dong-nai-2026",
+    "title": "Về việc thành lập thành phố Đồng Nai"
+  },
+  "36/2026/QH16": {
+    "doc_id": "36/2026/QH16",
+    "files": [
+      {
+        "bytes": 1566162,
+        "content_type": "application/pdf",
+        "fetched_at": "2026-11-27T08:39:04+00:00",
+        "path": "data/raw/quang-ninh-2026/nq36.nqtl_tpqn_0001_1.signed.pdf",
+        "role": "signed_scan",
+        "sha256": "298a37d37ffb9a9ff05b33f368cf11ca1c603cde068ecbc014d710c7ac0597e2",
+        "tier": 1,
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/9/nq36.nqtl_tpqn_0001_1.signed.pdf"
+      }
+    ],
+    "gazette_page": "",
+    "kind": "unit_change",
+    "landing_page": "https://vanban.chinhphu.vn/?pageid=27160&docid=219325",
+    "scope": "quang-ninh-2026",
+    "title": "Về việc thành lập thành phố Quảng Ninh"
+  },
   "387/NQ-UBTVQH15": {
     "doc_id": "387/NQ-UBTVQH15",
     "files": [
@@ -3181,6 +3241,56 @@
     "landing_page": "https://congbao.chinhphu.vn/van-ban/x-34555.htm",
     "scope": "bac-ninh-2024",
     "title": "Nghị quyết số 387/NQ-UBTVQH15 về việc thành lập thành phố Từ Sơn thuộc tỉnh Bắc Ninh."
+  },
+  "388/NQ-UBTVQH16": {
+    "doc_id": "388/NQ-UBTVQH16",
+    "files": [
+      {
+        "bytes": 2117783,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "fetched_at": "2026-11-27T07:20:54+00:00",
+        "path": "data/raw/bac-ninh-2026/gazette_2026_495_388_NQ-UBTVQH16.docx",
+        "role": "gazette_text",
+        "sha256": "4533b442808c1c175b29d838275a08d1964b4a9265065cfd24f8a5296f6ca1fa",
+        "tier": 1,
+        "url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAaHMpvrqWaeHuYm7lW3HNfzTzww8Myg35dDL_fJB4izwmDAvKT3GUysEMPVXawbO6aFsxsscwDJtkEbm4_p9Isxkx_pHgEhyq342lqCirpAkINrra0vxQdOGW71fDiY99w~~&file_name=2026_495_388%2fNQ-UBTVQH16.docx"
+      },
+      {
+        "bytes": 1453888,
+        "content_type": "application/pdf",
+        "fetched_at": "2026-11-27T07:20:56+00:00",
+        "path": "data/raw/bac-ninh-2026/gazette_2026_495_388_NQ-UBTVQH16.pdf",
+        "role": "gazette_text",
+        "sha256": "b71ddeee6ae0b4a54f21fdece9f1d44f81b7a2545a175a85735f2e81e985b410",
+        "tier": 1,
+        "url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAaHMpvrqWaeHuYm7lW3HNfzTzww8Myg35dDL_fJB4izwmDAvKT3GUysEMPVXawbO6VOh_JqCtXO5J8M5M-6nXhewwLeJh7EdcdopTlt572bEdWeE7fjJMAmWDrZ_-Zq5ow~~&file_name=2026_495_388%2fNQ-UBTVQH16.pdf"
+      }
+    ],
+    "gazette_page": "https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-388-nq-ubtvqh16-470313.htm",
+    "kind": "unit_change",
+    "landing_page": "https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-388-nq-ubtvqh16-470313.htm",
+    "scope": "bac-ninh-2026",
+    "title": "Về việc thành lập các phường thuộc tỉnh Bắc Ninh"
+  },
+  "39/2026/QH16": {
+    "doc_id": "39/2026/QH16",
+    "files": [
+      {
+        "bytes": 1556122,
+        "content_type": "application/pdf",
+        "fetched_at": "2026-11-27T08:39:05+00:00",
+        "path": "data/raw/bac-ninh-2026/nq39.nqtl_tpbn_0001.signed.pdf",
+        "role": "signed_scan",
+        "sha256": "951b5b1fd6653f85e8def8db63fa3dc74d13b166a4735c7385738e36d99e6c9f",
+        "tier": 1,
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/9/nq39.nqtl_tpbn_0001.signed.pdf"
+      }
+    ],
+    "gazette_page": "",
+    "kind": "unit_change",
+    "landing_page": "https://vanban.chinhphu.vn/?pageid=27160&docid=219328",
+    "scope": "bac-ninh-2026",
+    "title": "Về việc thành lập thành phố Bắc Ninh"
   },
   "510/NQ-UBTVQH15": {
     "doc_id": "510/NQ-UBTVQH15",
