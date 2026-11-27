@@ -1,0 +1,3 @@
+page,district,commune,merged,new_name,note
+9,Nam Định,Phường Mỹ Xá,Chia tách TDP Phúc Trọng thành 03 TDP mới,TDP Phúc Trọng 1,"row missed by table detection (rows inside a merged cell); read from the page image"
+9,Nam Định,Phường Mỹ Xá,Chia tách TDP Phúc Trọng thành 03 TDP mới,TDP Phúc Trọng 3,"row missed by table detection (rows inside a merged cell); read from the page image"

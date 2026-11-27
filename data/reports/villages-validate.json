@@ -1,0 +1,22 @@
+{
+  "counts_2021": {
+    "Mỹ Lộc": "ok",
+    "Nam Định": "ok",
+    "Vụ Bản": "ok",
+    "Ý Yên": "ok",
+    "Nam Trực": "ok",
+    "Trực Ninh": "ok",
+    "Nghĩa Hưng": "ok",
+    "Xuân Trường": "ok",
+    "Giao Thuỷ": "ok",
+    "Hải Hậu": "ok"
+  },
+  "duplicates_2021": 12,
+  "chain_2021_2026": {
+    "linked": 67,
+    "near_miss": 0,
+    "missing": 0,
+    "communes_with_2026_resolution": 15
+  },
+  "low_confidence_2021": 0
+}

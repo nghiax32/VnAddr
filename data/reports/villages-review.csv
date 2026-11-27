@@ -1,0 +1,20 @@
+round,check,district,commune,name,detail
+2021,duplicate,Nam Định,lộc vượng,4,old village merged twice
+2021,duplicate,Nam Định,mỹ xá,phúc trọng,old village merged twice
+2021,duplicate,Nam Định,mỹ xá,1 mỹ trọng,old village merged twice
+2021,duplicate,Nam Định,mỹ xá,2 mỹ trọng,old village merged twice
+2021,duplicate,Trực Ninh,liêm hải,3,old village merged twice
+2021,duplicate,Trực Ninh,liêm hải,6,old village merged twice
+2021,duplicate,Trực Ninh,liêm hải,12,old village merged twice
+2021,duplicate,Trực Ninh,việt hùng,nam tiến,old village merged twice
+2021,duplicate,Xuân Trường,thọ nghiệp,2,old village merged twice
+2021,duplicate,Xuân Trường,xuân ninh,2,old village merged twice
+2021,duplicate,Giao Thuỷ,giao hải,16,old village merged twice
+2021,duplicate,Giao Thuỷ,giao hải,17,old village merged twice
+2021,commune_unknown,Vụ Bản,"""",Đắc Lực Bến Trại,old commune not found in the official conversion table
+2021,commune_unknown,Vụ Bản,"""",Đắc Lực Đa Gạo,old commune not found in the official conversion table
+2021,commune_unknown,Vụ Bản,"""",Trung Phu,old commune not found in the official conversion table
+2021,commune_unknown,Vụ Bản,"""",Trình Xuyên Thượng,old commune not found in the official conversion table
+2021,commune_unknown,Vụ Bản,"""",Tổ Cầu,old commune not found in the official conversion table
+2021,commune_unknown,Vụ Bản,"""",Định Trạch,old commune not found in the official conversion table
+2021,commune_unknown,Vụ Bản,"""",Cao Phương,old commune not found in the official conversion table

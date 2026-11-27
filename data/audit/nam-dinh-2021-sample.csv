@@ -1,0 +1,51 @@
+row,page,y,merged,new_name
+1,6,545,"Sáp nhập TDP 13 với TDP 14, TDP 15",TDP số 5
+2,6,852,"Sáp nhập TDP 15 với TDP 16, TDP 17, TDP 18",TDP số 4
+3,7,1357,"Sáp nhập TDP 11 với TDP 12, TDP 13, TDP 14, TDP 15",TDP số 4
+4,7,1725,"Sáp nhập TDP 11 với TDP 12, TDP 13, TDP 14",TDP số 4
+5,8,1332,"Sáp nhập TDP 24 với TDP 25, TDP 26, TDP 27",TDP số 7
+6,8,1454,"Sáp nhập TDP 33 với TDP 34, TDP 35, TDP 36, TDP 37",TDP số 9
+7,9,1002,Sáp nhập TDP 22 với TDP 23,TDP số 15
+8,11,2141,Sáp nhập xóm Quang Tiến 1 với xóm Quang Tiến 2,Xóm Quang Tiến
+9,12,1627,Sáp nhập thôn Thống Nhất với thôn Đồng Lân,Thôn Đồng Tiến
+10,13,668,Sáp nhập thôn Bắc Cổ Liêu với thôn Nam Cổ Liêu,Thôn Cổ Liêu
+11,13,1303,Sáp nhập xóm Minh Sơn với 55 hộ phía đông đường cao tốc,Thôn Minh Sơn
+12,13,1944,Sáp nhập thôn An Thái với thôn Ba Khu,Thôn Duyên An
+13,13,2189,Sáp nhập thôn Đông An Lạc với thôn Tây An Lạc và thôn Từ Liêm,Thôn An Lạc
+14,14,2125,"Sáp nhập xóm 4 với xóm 5, xóm 6, xóm 7 và xóm 8",Thôn La Ngạn 1
+15,15,428,"Sáp nhập xóm 17 với xóm 18, xóm 19, xóm 20, xóm 21",Thôn An Trung
+16,16,632,Sáp nhập xóm 1 Thắng Lợi với xóm 2 Thắng Lợi,Xóm Thắng Lợi
+17,16,1888,Sáp nhập xóm Thự với xóm Dứa,Thôn Dứa Thự
+18,16,2270,Sáp nhập xóm 1 với xóm 2,Xóm Thượng 1
+19,17,1222,"Sáp nhập xóm 21 với xóm 22, xóm 23, xóm 24",Thôn Bái Trạch
+20,17,1404,"Sáp nhập xóm 1 Thụ Tung với xóm 2 Thụ Tung, xóm 3 Thụ Tung",Thôn Thọ Tung
+21,17,1588,Sáp nhập xóm 1 với xóm 2,Xóm Đông Tân
+22,18,1087,Sáp nhập xóm Bãi Cát với xóm Minh Hồng,Xóm Hồng Cát
+23,18,1329,Sáp nhập xóm 8 Thạch Cầu với xóm 9 Thạch Cầu,Xóm 4
+24,18,1818,"Sáp nhập xóm 25 Lạc Chính với xóm 26 Lạc Chính, xóm 27 Lạc Chính",Xóm 12
+25,18,1941,"Sáp nhập xóm 4 với xóm 5, xóm 6",Thôn 2
+26,19,644,Sáp nhập thôn Đô Hạ với thôn Trung Hạ,Thôn Đô Hạ Trung Hạ
+27,20,648,"Sáp nhập Chợ Sồng với Hoà Lạc, Phú Thịnh",Thôn Sồng Lạc Thịnh
+28,21,749,Sáp nhập TDP Trung Hoà với TDP Bắc Hoà,TDP Tiền Tiến
+29,21,1916,Sáp nhập xóm 7 với xóm 8 và xóm 9,Xóm Hùng Tiến
+30,22,2001,Sáp nhập TDP Nghị Nam với TDP Nghị Trung và TDP Nghị Bắc,TDP Bắc Trung Nam
+31,23,738,Sáp nhập xóm 6 với xóm 7,Xóm Lác Môn 4
+32,23,1229,Sáp nhập Hồng Thái với Hồng Phong,Xóm Phong Thái
+33,24,969,"Sáp nhập xóm Tây An Thôn Sa Hạ với xóm Trung Phú Thôn Sa Hạ, xóm Đông Cường Thôn Sa Hạ và xóm Mới thôn Sa Hạ",Thôn Phù Sa Hạ
+34,24,1237,Sáp nhập xóm Tây An Hưng Thịnh với xóm Nam Cường,Xóm An Cường
+35,25,1253,"Sáp nhập Đơn vị 4 với Đơn vị 5, Đơn vị 6 và Đơn vị 7",Thôn Thiên Bình
+36,26,781,Sáp nhập xóm 7 với xóm 8,Xóm 1
+37,26,965,Sáp nhập xóm 1 với xóm 2,Xóm 1
+38,26,1329,Sáp nhập xóm 18 với xóm 19,Xóm 7
+39,26,1757,Sáp nhập xóm 34 với xóm 37,Xóm 16
+40,27,731,Sáp nhập xóm Lý với xóm Trần và xóm Quang,Xóm 3
+41,27,1896,Sáp nhập xóm 6 với xóm 7,Xóm 4
+42,28,1378,Sáp nhập xóm 1 với xóm 2,Thôn Nam Thắng
+43,29,729,Sáp nhập xóm Xuân Dục 3 với xóm Xuân Dục 4,Xóm 15
+44,29,1647,Sáp nhập xóm 15 với xóm 16 và xóm 17,Xóm Hoành Tam
+45,31,790,"Sáp nhập TDP Lâm Khang với phần còn lại của TDP Lâm Thượng, Lâm Thọ, Lâm Tân",TDP Lâm Khang
+46,31,1771,Sáp nhập xóm Quyết Tiến 4 với xóm Quyết Tiến 5,Xóm 2
+47,31,1956,Sáp nhập xóm Quyết Thắng 2 và xóm Quyết Thắng 3,Xóm 5
+48,33,851,Sáp nhập xóm 5 Hải An với xóm 6 Hải An,Xóm 7
+49,33,2290,Sáp nhập xóm 18 với xóm 17,Xóm 17
+50,34,477,Sáp nhập xóm Mỹ Tiến với xóm Mỹ Hòa,Xóm Mỹ Hòa

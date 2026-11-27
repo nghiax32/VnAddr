@@ -1,0 +1,1350 @@
+{
+  "13285": {
+    "name": "Phủ Lý",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13291": {
+    "name": "Phù Vân",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13318": {
+    "name": "Châu Sơn",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13324": {
+    "name": "Duy Tiên",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13330": {
+    "name": "Duy Tân",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13336": {
+    "name": "Duy Hà",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13348": {
+    "name": "Đồng Văn",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13363": {
+    "name": "Tiên Sơn",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 2,
+    "files": 2,
+    "scanned_files": 1,
+    "best_evidence": "resolution_ocr",
+    "rows": 7,
+    "unread_clauses": [
+      "5. Thành lập tô đân ghố Tín Nhì trên cơ sở nhập toàn bộ tổ dân phố Đọi Tín với tô dân phô Đọi Nhỉ.\"°.. _.",
+      "6. Thành lập tỗ dân pRổ Đọi Sơn trên cơ sở nhập toàn bộ tổ dân phố Nhất Hà với tô dân phố Lĩnh Trung. „ 7. Thành lập tô dân phó Châu Sơn trên cơ sở nhập toàn bộ tổ dân phố Câu Tủ, tô dân phố Thọ Câu, tô dân phố Lê Xá và tổ dân phô Trung Thượng."
+    ]
+  },
+  "13366": {
+    "name": "Hà Nam",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13384": {
+    "name": "Kim Bảng",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13393": {
+    "name": "Lê Hồ",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 2,
+    "files": 2,
+    "scanned_files": 1,
+    "best_evidence": "other",
+    "rows": 20,
+    "unread_clauses": []
+  },
+  "13396": {
+    "name": "Nguyễn Úy",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13402": {
+    "name": "Kim Thanh",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 2,
+    "files": 2,
+    "scanned_files": 2,
+    "best_evidence": "resolution_ocr",
+    "rows": 10,
+    "unread_clauses": [
+      "1. Đổi tên Tổ dân phó số 1 thành: Tổ dân phố Nhật Tân 1.",
+      "4. Đổi tên Tổ dân phó số 6 thành: Tổ dân phố Nhật Tân 4.",
+      "8. Đổi tên tổ dân phố Thọ Lão 1 thành: Tổ dân phố Hoàng Tây I."
+    ]
+  },
+  "13420": {
+    "name": "Tam Chúc",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 1,
+    "files": 1,
+    "scanned_files": 1,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13435": {
+    "name": "Lý Thường Kiệt",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13444": {
+    "name": "Liêm Tuyền",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 1,
+    "files": 1,
+    "scanned_files": 0,
+    "best_evidence": "resolution",
+    "rows": 21,
+    "unread_clauses": []
+  },
+  "13456": {
+    "name": "Liêm Hà",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13474": {
+    "name": "Tân Thanh",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 3,
+    "files": 2,
+    "scanned_files": 0,
+    "best_evidence": "other",
+    "rows": 19,
+    "unread_clauses": [
+      "8. Giữ nguyên tên gọi, địa giới và tổ chức hoạt động đối với các thôn Đồng Ao, thôn Non và thôn Đồi Ngang. Ủy ban nhân dân xã Tân Thanh, tỉnh Ninh Bình trân trọng thông báo./. Nơi nhận: TM. UỶ BAN NHÂN DÂN CHỦ TỊCH Nguyễn Triều Dương"
+    ]
+  },
+  "13483": {
+    "name": "Thanh Bình",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 2,
+    "files": 2,
+    "scanned_files": 1,
+    "best_evidence": "resolution_ocr",
+    "rows": 12,
+    "unread_clauses": [
+      "1. Thành lập thốn Liêm Thuận trên cơ sở nhập toàn bộ thôn Chằm Vải với thôn Gừa Sông.\" --- -"
+    ]
+  },
+  "13489": {
+    "name": "Thanh Lâm",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13495": {
+    "name": "Thanh Liêm",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13501": {
+    "name": "Bình Mỹ",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13504": {
+    "name": "Bình Lục",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 1,
+    "files": 1,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13531": {
+    "name": "Bình Giang",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13540": {
+    "name": "Bình An",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 1,
+    "files": 1,
+    "scanned_files": 1,
+    "best_evidence": "resolution_ocr",
+    "rows": 25,
+    "unread_clauses": [
+      "1. Thành lập thôn Tiên Xuân, với tổng số hộ gia đình là 844 hộ, số nhân khẩu là “S⁄ 2.800 ngHốt Mông CƠ SỞ TIÊNH to bộ bố 3 an HỀ 4 ke, Su : An biệt 1.785 người trên cơ sở nhập một phần của thôn 2 Bối Cầu (thôn Bồi Cầu cũ) với một phần của thôn 3 Bối Cầu (thôn Phú Đa cũ) nằm ở phía Tây đường 495B.",
+      "3. Thành lập thôn An Viễn với tổng số hộ gia đình là 652 hộ, số nhân khẩu là 2.012 người trên cơ sở nhập một phần của thôn 2 Bối Cầu (thôn An Đề cũ) với một phần của thôn 3 Bồi Cầu (thôn Viễn Lai cũ) nằm ở phía Đông đường 495B."
+    ]
+  },
+  "13558": {
+    "name": "Bình Sơn",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13573": {
+    "name": "Lý Nhân",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13579": {
+    "name": "Bắc Lý",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13591": {
+    "name": "Nam Xang",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13594": {
+    "name": "Trần Thương",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13597": {
+    "name": "Vĩnh Trụ",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13609": {
+    "name": "Nhân Hà",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13627": {
+    "name": "Nam Lý",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13669": {
+    "name": "Nam Định",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13684": {
+    "name": "Thiên Trường",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13693": {
+    "name": "Đông A",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13699": {
+    "name": "Thành Nam",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 1,
+    "files": 3,
+    "scanned_files": 1,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13708": {
+    "name": "Mỹ Lộc",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13741": {
+    "name": "Vụ Bản",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 2,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13750": {
+    "name": "Minh Tân",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 9,
+    "files": 13,
+    "scanned_files": 1,
+    "best_evidence": "resolution_ocr",
+    "rows": 32,
+    "unread_clauses": [
+      "2. Thành lập các Tổ công tác lấy ý kiến Nhân dân Minh Tân. viên từ 03 đến 05 người, phù hợp quy mô dân cư và yêu cầu nhiệm vụ. Thông báo thời gian, địa điểm, hình thức lấy ý kiến; Phát phiếu, hướng dẫn ghi phiếu; Thu phiếu, kiểm phiếu, lập biên bản, tổng hợp kết quả; Báo cáo kết quả lấy ý kiến về UBND xã đúng thời gian quy định."
+    ]
+  },
+  "13753": {
+    "name": "Hiển Khánh",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13777": {
+    "name": "Trường Thi",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13786": {
+    "name": "Liên Minh",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 3,
+    "files": 3,
+    "scanned_files": 0,
+    "best_evidence": "resolution",
+    "rows": 32,
+    "unread_clauses": []
+  },
+  "13795": {
+    "name": "Ý Yên",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13807": {
+    "name": "Tân Minh",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13822": {
+    "name": "Phong Doanh",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 16,
+    "files": 17,
+    "scanned_files": 0,
+    "best_evidence": "other",
+    "rows": 2,
+    "unread_clauses": [
+      "4. Thành lập Tổ phát phiếu lấy ý kiến nhân dân xóm, mỗi Tổ gồm từ 03 đến 05 thành viên. Tổ phát phiếu lấy ý kiến nhân dân do đại diện Ban công tác mặt trận ở thôn, xóm là Tổ trưởng gồm Tổ trưởng và các thành viên là cán bộ, công chức, viên chức, người hoạt động không chuyên trách, đại diện các tổ chức chính trị - xã hội, người có uy tín tại cộng đồng dân cư hoặc các thành phần khác phù hợp với điều kiện thực tế của địa phương. phiếu lấy ý kiến; tổ chức tuyên truyền, hướng dẫn nhân dân tham gia góp ý; phát, thu phiếu; kiểm phiếu; lập biên bản tổng hợp kết quả và gửi về UBND xã theo quy định. Thời gian hoàn thành: Trước ngày 15/6/2026."
+    ]
+  },
+  "13834": {
+    "name": "Vũ Dương",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 1,
+    "files": 1,
+    "scanned_files": 1,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13864": {
+    "name": "Vạn Thắng",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 5,
+    "files": 6,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": [
+      "1. Thành lập Tổ lấy ý kiến tổ chức triển khai việc phát phiếu, hướng dẫn ghi phiếu, thu phiếu và tổng hợp kết quả lấy ý kiến theo quy định. công thành các nhóm hoặc bộ phận phụ trách từng khu vực dân cư nhằm bảo đảm việc lấy ý kiến được thực hiện đầy đủ, khách quan, đúng tiến độ thời gian quy định. Ban Công tác Mặt trận thôn (xóm). đoàn thể ở thôn, xóm và những người có uy tín, am hiểu địa bàn. diện hộ gia đình; bảo đảm công khai, dân chủ, khách quan; lập biên bản, tổng hợp kết quả và báo cáo UBND xã theo quy định."
+    ]
+  },
+  "13870": {
+    "name": "Yên Cường",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 4,
+    "files": 7,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13879": {
+    "name": "Yên Đồng",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13891": {
+    "name": "Nghĩa Hưng",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 8,
+    "files": 8,
+    "scanned_files": 1,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13894": {
+    "name": "Rạng Đông",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13900": {
+    "name": "Đồng Thịnh",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13918": {
+    "name": "Nghĩa Sơn",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 8,
+    "files": 12,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13927": {
+    "name": "Hồng Phong",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 3,
+    "files": 5,
+    "scanned_files": 1,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13939": {
+    "name": "Quỹ Nhất",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13957": {
+    "name": "Nghĩa Lâm",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13966": {
+    "name": "Nam Trực",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13972": {
+    "name": "Vị Khê",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "13984": {
+    "name": "Hồng Quang",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 9,
+    "files": 14,
+    "scanned_files": 1,
+    "best_evidence": "resolution_ocr",
+    "rows": 31,
+    "unread_clauses": [
+      "2. Thành lập Tổ công tác, Tổ giúp việc triển khai, thực hiện",
+      "2. Thành lập Tổ lấy ý kiến cử tri kiến cử tri theo địa bàn tổ dân phố. lấy ý kiến; tổ chức tuyên truyền, hướng dẫn cử tri tham gia góp ý; phát, thu phiếu; kiểm phiếu; lập biên bản tổng hợp kết quả và bàn giao Tổ công tác phụ trách địa bàn tổng hợp gửi về UBND phường (qua phòng Văn hóa - Xã hội) theo quy định. phố, Ban công tác Mặt trận tổ dân phố, đại diện tổ chức chính trị - xã hội ở tổ dân phố. Đại diện Ban công tác Mặt trận ở tổ dân phố là Tổ trưởng. Thời gian thực hiện: Hoàn thành trước 14/06/2026"
+    ]
+  },
+  "13987": {
+    "name": "Nam Hồng",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14005": {
+    "name": "Nam Ninh",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14011": {
+    "name": "Nam Minh",
+    "platform": "vnpt",
+    "documents": 8,
+    "files": 8,
+    "scanned_files": 1,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": [
+      "1.2. Thành lập Ban Công tác Mặt trận ở thôn, tổ dân phố sau sắp xếp Sau khi cấp có thâm quyền quyết định sắp xếp thôn, tổ dân phố, Ban Thường trực Ủy ban MTTQ Việt Nam cấp xã triển khai thực hiện các nội dung sau: thôn, tổ dân phố cũ. Điều lệ MTTQ Việt Nam; phối hợp với cấp ủy thôn, tổ dân phố báo cáo cấp ủy cấp xã kiện toàn chức danh Trưởng ban, Phó Trưởng ban và các thành viên. nhiệm kỳ của Chi bộ cùng cấp.",
+      "3.2. Giữ nguyên hiện trạng đối với 03 thôn, xóm đã đạt tiêu chuẩn theo quy định; trong đó có 01 thôn giữ nguyên tên gọi, 02 xóm đổi tên theo tên gọi truyền thống, cụ thể: (1) Thôn Phúc Thiện, số hộ gia đình là 425 hộ; số nhân khẩu là 1.597 người. Giữ nguyên hiện trạng và tên gọi “Thôn Phúc Thiện”. (2) Xóm 2, số hộ gia đình là 411 hộ; số nhân khẩu là 1.354 người. Giữ nguyên hiện trạng, đổi tên dự kiến thành “Thôn An Nông”. (3) Xóm 12, số hộ gia đình là 441 hộ; số nhân khẩu là 1.607 người. Giữ nguyên hiện trạng, đổi tên dự kiến thành “Thôn Lạc Chính”.",
+      "2.2. Thành lập các Tổ công tác tại cơ sở để tuyên truyền, phổ biến, hướng dẫn và tổ chức lấy ý kiến Nhân dân về Đề án. Tổ công tác do đồng chí Bí thư chi bộ làm Tổ trưởng; Trưởng thôn và Trưởng ban Công tác Mặt trận làm Tổ phó; các chi hội trưởng, Bí thư Chi đoàn Thanh niên và các thành phần có liên quan làm thành viên.",
+      "1. Sáp nhập 02 Thôn a) Thành Thôn mới như sau: thôn mới: 07 người, giảm. 07 người gồm: (01 đồng chí Bí thư chi bộ, 01 Trưởng thôn, 01 Trưởng ban CTMTCS, 01 chi hội trưởng CCB, 01 Bí thư chi đoàn, 01 chi hội trưởng nông dân, 01 chi hội trưởng phụ nữ) b) Đánh giá tác động: thể giảm 05 người. dư sau sáp nhập, tổng số tiền 5.296.800 đồng/ tháng. Gồm (01 đồng chí Bí thư chi bộ: 1.639.000 đồng, 01 Trưởng xóm 1.639.000 đồng, 01 Trưởng ban CTMTCS kiêm nhiệm 596.000 đồng, 01 chi hội trưởng CCB 193.700 đồng, 01 Bí thư chi đoàn 193.700 đồng, 01 chi hội trưởng nông dân 193.700 đồng, 01 chi hội trưởng phụ nữ 193.700 đồng) văn hoá, điện, đường giữ nguyên hiện trang của 02 thôn làng cổ. Nhà văn hóa của thôn Phan mới xây dựng năm 2017 do nhân dân đóng góp nằm ở Trung tâm của thôn Phan, Công trình tín ngưỡng phủ phan thờ mẫu, lẽ hội truyền thống ngày 06/3 âm lịch hàng năm, do nhân dân thôn Phan xây dựng. Nhà văn hóa thôn Xẫy tu sửa nâng cấp năm 2017 từ ngôi đền cũ nằm ở Trung tâm của Thôn Xẫy, công trình tín ngưỡng đền Xẫy lễ hội truyền thống ngày 03/01 tết âm lịch hàng năm, do nhân dân xây dựng. Các công trình văn hóa, tín ngưỡng truyền thống, phong tục tập quán của 2 thôn khác nhau.",
+      "2. Sáp nhập 02 xóm. a) Thành xóm mới như sau: thôn mới: 07 người, giảm 07 người (01 đồng chí Bí thư chi bộ, 01 Trưởng thôn, 01 Trưởng ban CTMTCS, 01 chi hội trưởng CCB, 01 Bí thư chi đoàn, 01 chi hội trưởng nông dân, 01 chi hội trưởng phụ nữ) b) Đánh giá tác động: thể giảm. 05 người. dư sau sáp nhập, tổng số tiền 3.657.800 đồng/tháng. Gồm (01 đồng chí Bí thư chi bộ: 1.639.000 đồng, 01 Trưởng ban CTMTCS kiêm nhiệm 596.000 đồng, 01 chi hội trưởng CCB 193.700 đồng, 01 Bí thư chi đoàn 193.700 đồng, 01 chi hội trưởng nông dân 193.700 đồng, 01 chi hội trưởng phụ nữ 193.700 đồng) văn hoá, điện, đường. Giữ nguyên nhà văn hóa xóm Minh Hồng là nơi sinh hoạt chung cho xóm mới. công trình tín ngưỡng tôn giáo xóm Minh Hồng đền thờ phía tây xóm do nhân dân xây dựng; Miếu thờ thành Hoàng làng của xóm Bãi cát do nhân dân xây dựng.",
+      "4. Thành lập Tổ phát phiếu (số lượng từ 3 đến 5 người)."
+    ]
+  },
+  "14014": {
+    "name": "Nam Đồng",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14026": {
+    "name": "Cổ Lễ",
+    "platform": "vnpt",
+    "documents": 8,
+    "files": 11,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": [
+      "3. Thành lập Tổ phát phiếu lấy ý kiến theo địa bàn từng thôn. tổ chức tuyên truyền, hướng dẫn Nhân dân tham gia góp ý; phát, thu phiếu; kiểm phiếu; lập biên bản tổng hợp kết quả và gửi về UBND xã theo quy định. đại điện thôn, Ban công tác Mặt trận thôn, đại diện tổ chức chính trị - xã hội ở thôn, trong đó đại diện Ban công tác Mặt trận ở thôn là Tổ trưởng.",
+      "3. Thành lập Tổ công tác của UBND xã hướng dẫn, giám sát bàn giao"
+    ]
+  },
+  "14038": {
+    "name": "Ninh Giang",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14053": {
+    "name": "Trực Ninh",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14056": {
+    "name": "Cát Thành",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14062": {
+    "name": "Quang Hưng",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14071": {
+    "name": "Minh Thái",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14077": {
+    "name": "Ninh Cường",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14089": {
+    "name": "Xuân Trường",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 10,
+    "files": 12,
+    "scanned_files": 1,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14095": {
+    "name": "Xuân Hồng",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14104": {
+    "name": "Xuân Giang",
+    "platform": "vnpt",
+    "documents": 20,
+    "files": 36,
+    "scanned_files": 8,
+    "best_evidence": "resolution",
+    "rows": 39,
+    "unread_clauses": [
+      "1. Sáp nhập xóm I1 gồm I51 hộ gia đình 541 nhân khẩu với xóm 12 gồm 236 hộ gia đình 928 nhân khẩu thành xóm mới như sau: a) Tên gọi của xóm mới: Xóm 5 xóm mới: 07 người, giảm 05 người. b) Đánh giá tác động: giảm 05 người. sau sáp nhập theo quy định của UBND tỉnh Nam Định. văn hoá, điện, đường... Đối với các nhà văn hóa của các xóm cũ vẫn sử dụng sinh hoạt của khu dân cư cũ. Về hệ thống đường, điện và các công trình xây dựng của xóm cũ thì khu dân cư đó tiếp tục sử dụng đồng thời thanh quyết toán nếu như chưa trả hết nợ. Khi xóm mới đi vào hoạt động việc kiến thiết những vấn đề chung trong toàn xóm thì cả xóm bàn bạc thực hiện. Đối với nâng cấp, sửa chữa làm mới các tuyến đường, hệ thống đèn đường tại các khu dân cư do khu dân cư đó đóng góp thực hiện.",
+      "2. Sáp nhập xóm 13 gồm 245 hộ gia đình 1.046 nhân khẩu với xóm 14 gồm 229 hộ gia đình 924 nhân khẩu thành xóm mới như sau: a) Tên gọi của xóm mới: Xóm 6 Xóm mới: 7 người, giảm 5Š người b) Đánh giá tác động: thể giảm 04 người. sau sáp nhập theo quy định của UBND tỉnh Nam Định. văn hoá, điện, đường... Đối với các nhà văn hóa của các xóm cũ vẫn sử dụng sinh hoạt của khu dân cư cũ. Về hệ thống đường, điện và các công trình xây dựng của xóm cũ thì khu dân cư đó tiếp tục sử dụng đồng thời thanh quyết toán nếu như chưa trả hết nợ. Khi xóm mới đi vào hoạt động việc kiến thiết những vấn đề chung trong toàn xóm thì cả xóm bàn bạc thực hiện. Đối với nâng cấp, sửa chữa làm mới các tuyến đường, hệ thống đèn đường tại các khu dân cư do khu dân cư đó đóng góp thực hiện.",
+      "3. Sáp nhập xóm 15 gồm 183 hộ gia đình 599 nhân khẩu với xóm 16 gồm 219 hộ gia đình 774 nhân khẩu thành xóm mới như sau: a) Tên gọi của xóm mới: Xóm 7 xóm mới: 07 người, giảm 05 người. b) Đánh giá tác động: thê giảm 04 người. sau sáp nhập theo quy định của UBND tỉnh Nam Định. văn hoá, điện, đường... Đối với các nhà văn hóa của các xóm cũ vẫn sử dụng sinh hoạt của khu dân cư cũ. Về hệ thống đường, điện và các công trình xây dựng của xóm cũ thì khu dân cư đó tiếp tục sử dụng đồng thời thanh quyết toán nêu như chưa trả hết nợ. Khi xóm mới đi vào hoạt động việc kiến thiết những vấn đề chung trong toàn xóm thì cả xóm bàn bạc thực hiện. Đồi với nâng cấp, sửa chữa làm mới các tuyến đường, hệ thống đèn đường tại các khu dân cư do khu dân cư đó đóng góp thực hiện.",
+      "4. Sáp nhập xóm 17 gồm 167 hộ gia đình 607 nhân khẩu với xóm 18 gồm 185 hộ gia đình 609 nhân khẩu thành xóm mới như sau: a) Tên gọi của xóm mới: Xóm 8 xóm mới: 07 người, giảm 05 người b) Đánh giá tác động: thê giảm 04 người. sau sáp nhập theo quy định của UBND tỉnh Nam Định. văn hoá, điện, đường... Đối với các nhà văn hóa của các xóm cũ vẫn sử dụng sinh hoạt của khu dân cư cũ. Về hệ thống đường, điện và các công trình xây dựng của xóm cũ thì khu dân cư đó tiếp tục sử dụng đồng thời thanh quyết toán nếu như chưa trả hết nợ. Khi xóm mới đi vào hoạt động việc kiến thiết . những vấn đề chung trong toàn xóm thì cả xóm bàn bạc thực hiện. Đối với nâng cấp, sửa chữa làm mới các tuyến đường, hệ thống đèn đường tại các khu dân cư do khu dân cư đó đóng góp thực hiện.",
+      "1. Sắp xếp, sáp nhập chỉ bộ thôn (xóm), tổ dân phố đảm bảo mỗi thôn (xóm), tổ dân phó có một chỉ bộ hoàn thiện về cơ cấu, tổ chức, năng lực lãnh đạo và sức chiến đấu; thống nhất, đồng bộ với việc sắp xếp, sáp nhập thôn (xóm), tổ dân phố trên địa bàn huyện, giai đoạn 2021-2022.",
+      "2. Thành lập Ban Chỉ đạo của cấp huyện, cấp xã do đồng chí Bí thư cấp ủy trực tiếp làm Trưởng ban chỉ đạo với sự tham gia của đại diện các tô chức trong hệ thống chính trị ở địa phương để lãnh đạo, chỉ đạo triển khai tổ chức thực hiện việc sắp xếp, sáp nhập thôn (xóm), tổ dân phó."
+    ]
+  },
+  "14122": {
+    "name": "Xuân Hưng",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14161": {
+    "name": "Giao Minh",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14167": {
+    "name": "Giao Thủy",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14179": {
+    "name": "Giao Hưng",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14182": {
+    "name": "Giao Hòa",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14194": {
+    "name": "Giao Bình",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 1,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14203": {
+    "name": "Giao Phúc",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14212": {
+    "name": "Giao Ninh",
+    "platform": "van-ban-dieu-hanh",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14215": {
+    "name": "Hải Hậu",
+    "platform": "vnpt",
+    "documents": 11,
+    "files": 13,
+    "scanned_files": 0,
+    "best_evidence": "plan",
+    "rows": 57,
+    "unread_clauses": []
+  },
+  "14218": {
+    "name": "Hải Tiến",
+    "platform": "vnpt",
+    "documents": 6,
+    "files": 6,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14221": {
+    "name": "Hải Thịnh",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14236": {
+    "name": "Hải Anh",
+    "platform": "vnpt",
+    "documents": 2,
+    "files": 8,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14248": {
+    "name": "Hải Hưng",
+    "platform": "vnpt",
+    "documents": 6,
+    "files": 36,
+    "scanned_files": 1,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": [
+      "3. Thành lập Tổ phát phiếu lấy ý kiến địa bàn từng xóm. kiến; tổ chức tuyên truyền, hướng dẫn Nhân dân tham gia góp ý; phát, thu phiếu; kiểm phiếu; lập biên bản tổng hợp kết quả và gửi về UBND xã theo quy định. gồm: đại điện xóm, Ban công tác Mặt trận xóm, đại diện tổ chức chính trị - xã hội ở xóm, trong đó Trưởng Ban công tác Mặt trận ở xóm là Tổ trưởng."
+    ]
+  },
+  "14281": {
+    "name": "Hải An",
+    "platform": "vnpt",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14287": {
+    "name": "Hải Quang",
+    "platform": "vnpt",
+    "documents": 5,
+    "files": 12,
+    "scanned_files": 3,
+    "best_evidence": "resolution",
+    "rows": 56,
+    "unread_clauses": []
+  },
+  "14308": {
+    "name": "Hải Xuân",
+    "platform": "vnpt",
+    "documents": 1,
+    "files": 1,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": [
+      "3. Thành lập Tổ phát phiếu lấy ý kiến theo địa bàn từng xóm. tổ chức tuyên truyền, hướng dẫn Nhân dân tham gia góp ý; phát, thu phiếu; kiểm phiếu; lập biên bản tổng hợp kết quả và gửi về UBND xã theo quy định. đại điện thôn, Ban công tác Mặt trận thôn, đại diện tổ chức chính trị - xã hội ở thôn, trong đó đại diện Ban công tác Mặt trận ở thôn là Tổ trưởng."
+    ]
+  },
+  "14329": {
+    "name": "Hoa Lư",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14359": {
+    "name": "Nam Hoa Lư",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14362": {
+    "name": "Tam Điệp",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14365": {
+    "name": "Trung Sơn",
+    "platform": "vanban",
+    "documents": 2,
+    "files": 2,
+    "scanned_files": 1,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14371": {
+    "name": "Yên Sơn",
+    "platform": "vanban",
+    "documents": 3,
+    "files": 3,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14389": {
+    "name": "Gia Lâm",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14401": {
+    "name": "Gia Tường",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14404": {
+    "name": "Cúc Phương",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14407": {
+    "name": "Phú Sơn",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14428": {
+    "name": "Nho Quan",
+    "platform": "vanban",
+    "documents": 3,
+    "files": 4,
+    "scanned_files": 1,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14434": {
+    "name": "Thanh Sơn",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14452": {
+    "name": "Quỳnh Lưu",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14458": {
+    "name": "Phú Long",
+    "platform": "vanban",
+    "documents": 3,
+    "files": 3,
+    "scanned_files": 0,
+    "best_evidence": "resolution",
+    "rows": 23,
+    "unread_clauses": [
+      "4. Thành lập Tổ lấy ý kiến Nhân dân bản thành lập Tổ lấy ý kiến Nhân dân. Ban Công tác Mặt trận; các chi hội đoàn thể và người có uy tín trong cộng đồng dân cư nếu cần thiết. Văn hóa - Xã hội) đúng thời gian quy định. phiếu phải được thông báo công khai đến Nhân dân chậm nhất 02 ngày trước ngày thực hiện phát phiếu."
+    ]
+  },
+  "14464": {
+    "name": "Gia Viễn",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14482": {
+    "name": "Gia Hưng",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14488": {
+    "name": "Gia Vân",
+    "platform": "vanban",
+    "documents": 2,
+    "files": 2,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14494": {
+    "name": "Gia Trấn",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14500": {
+    "name": "Đại Hoàng",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14524": {
+    "name": "Gia Phong",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14533": {
+    "name": "Tây Hoa Lư",
+    "platform": "vanban",
+    "documents": 4,
+    "files": 1,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14560": {
+    "name": "Yên Khánh",
+    "platform": "vanban",
+    "documents": 8,
+    "files": 10,
+    "scanned_files": 1,
+    "best_evidence": "resolution_ocr",
+    "rows": 98,
+    "unread_clauses": [
+      "2. Thành lập thôn Xuân Dương trên c",
+      "3. Thành lập thôn Yên Khê trên cơ Thông 2, thôn Hạ Giá, thôn Trại.",
+      "8. Thành lập thôn Nhuận Hải trên cơ sở n Hải; thôn Đông B - Nhuận Hải, thôn Trun Hải, thôn Hạ - Nhuận Hải,"
+    ]
+  },
+  "14563": {
+    "name": "Khánh Thiện",
+    "platform": "vanban",
+    "documents": 4,
+    "files": 12,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14566": {
+    "name": "Đông Hoa Lư",
+    "platform": "vanban",
+    "documents": 5,
+    "files": 61,
+    "scanned_files": 12,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": [
+      "35. Thành lập hội Thông báo kết quả đại hội và phê duyệt đổi tên hội, phê duyệt điều lệ hội 37 Hội tự giải thể 38 Báo cáo tổ chức đại hội thành lập, đại hội nhiệm kỳ, đại hội bất thường của hội 39 Chia, tách; sáp nhập; hợp nhất hội 40 Công nhận ban vận động thành lập hội Cho phép hội hoạt động trở lại sau khi bị đình chỉ có thời hạn 42 Thủ tục thi tuyển viên chức (nghị định số 85/2023/nđ-cp) Thủ tục tiếp nhận vào viên chức không giữ chức vụ quản lý 50 Thủ tục xét tuyển viên chức (85/2023/nđ-cp) 51 Cấp giấy xác nhận thân nhân của người có công Di chuyển hài cốt liệt sĩ đang an táng tại nghĩa trang liệt 52 sĩ đi nơi khác theo nguyện vọng của đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ Di chuyển hài cốt liệt sĩ đang an táng ngoài nghĩa trang liệt sĩ về an táng tại nghĩa trang liệt sĩ theo nguyện vọng của đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ Hưởng trợ cấp khi người có công đang hưởng trợ cấp ưu đãi từ trần Giải quyết chế độ hỗ trợ để theo học đến trình độ đại học tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân Giải quyết chế độ người hoạt động kháng chiến giải phóng dân tộc, bảo vệ tổ quốc và làm nghĩa vụ quốc tế 57 Giải quyết chế độ người có công giúp đỡ cách mạng. Công nhận và giải quyết chế độ con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học Công nhận và giải quyết chế độ người hoạt động cách 59 mạng, kháng chiến, bảo vệ tổ quốc, làm nghĩa vụ quốc tế bị địch bắt tù, đày Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng. 61 Công nhận và giải quyết chế độ ưu đãi người hoạt động kháng chiến bị nhiễm chất độc hóa học Công nhận đối với người bị thương trong chiến tranh không thuộc quân đội, công an Cấp tiền mua phương tiện trợ giúp, dụng cụ chỉnh hình, phương tiện, thiết bị phục hồi chức năng đối với trường 63 hợp đang sống tại gia đình hoặc đang được nuôi dưỡng tập trung tại các cơ sở nuôi dưỡng, điều dưỡng do địa phương quản lý Cấp bổ sung hoặc cấp lại giấy chứng nhận người có công 65 do ngành lao động - thương binh và xã hội quản lý và giấy chứng nhận thân nhân liệt sĩ Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do tỉnh quản lý Giải quyết chế độ ưu đãi đối với trường hợp tặng hoặc 67 truy tặng danh hiệu vinh dự nhà nước “bà mẹ việt nam anh hùng\" Giải quyết chế độ ưu đãi đối với anh hùng lực lượng vũ 68 trang nhân dân, anh hùng lao động trong thời kỳ kháng chiến hiện không công tác trong quân đội, công an Giải quyết chế độ ưu đãi đối với vợ hoặc chồng liệt sĩ lấy chồng hoặc vợ khác 70 Giải quyết chế độ trợ cấp thờ cúng liệt sĩ. 71 Giải quyết chế độ trợ cấp ưu đãi đối với thân nhân liệt sĩ Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do bộ nội vụ quản lý Cấp bằng “tổ quốc ghi công” đối với người hy sinh hoặc mất tích trong chiến tranh 74 Cấp đổi bằng “tổ quốc ghi công” Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng 76 Cấp lại bằng “tổ quốc ghi công” Cấp bằng “tổ quốc ghi công” đối với người hy sinh thuộc các trường hợp quy định tại điều 14 pháp lệnh nhưng 77 chưa được cấp bằng “tổ quốc ghi công” mà thân nhân đã được giải quyết chế độ ưu đãi từ ngày 01 tháng 01 năm 1995 đến ngày 30 tháng 9 năm 2006 78 Cấp bằng “tổ quốc ghi công” Giải quyết chế độ trợ cấp một lần đối với người được cử làm chuyên gia sang giúp lào, căm-pu-chi-a Thủ tục liên thông đăng ký điều chỉnh đóng bảo hiểm xã 80 hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp và báo cáo tình hình sử dụng lao động Đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi Đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai 82 táng phí, tử tuất Thẩm định báo cáo đánh giá tác động môi trường; cấp giấy phép nhận chìm ở biển Thẩm định báo cáo đánh giá tác động môi trường; cấp 84 giấy phép nhận chìm ở biển ở biển và giao khu vực biển",
+      "2. Đổi tên 01 tổ dân phố: Đổi tên tổ dân phố Phú Hào thành tổ dân phố Hào Phú. Sau khi sắp xếp, tổ chức lại, đổi tên các tổ dân phố trên địa bàn phường Đông Hoa Lư có 14 (mười bốn) tổ dân phố.",
+      "35. Thành lập hội Thông báo kết quả đại hội và phê duyệt đổi tên hội, phê duyệt điều lệ hội 37 Hội tự giải thể 38 Báo cáo tổ chức đại hội thành lập, đại hội nhiệm kỳ, đại hội bất thường của hội 39 Chia, tách; sáp nhập; hợp nhất hội 40 Công nhận ban vận động thành lập hội Cho phép hội hoạt động trở lại sau khi bị đình chỉ có thời hạn 42 Thủ tục thi tuyển viên chức (nghị định số 85/2023/nđ-cp) Thủ tục tiếp nhận vào viên chức không giữ chức vụ quản lý 50 Thủ tục xét tuyển viên chức (85/2023/nđ-cp) 51 Cấp giấy xác nhận thân nhân của người có công Di chuyển hài cốt liệt sĩ đang an táng tại nghĩa trang liệt 52 sĩ đi nơi khác theo nguyện vọng của đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ Di chuyển hài cốt liệt sĩ đang an táng ngoài nghĩa trang liệt sĩ về an táng tại nghĩa trang liệt sĩ theo nguyện vọng của đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ Hưởng trợ cấp khi người có công đang hưởng trợ cấp ưu đãi từ trần Giải quyết chế độ hỗ trợ để theo học đến trình độ đại học tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân Giải quyết chế độ người hoạt động kháng chiến giải phóng dân tộc, bảo vệ tổ quốc và làm nghĩa vụ quốc tế 57 Giải quyết chế độ người có công giúp đỡ cách mạng. Công nhận và giải quyết chế độ con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học Công nhận và giải quyết chế độ người hoạt động cách 59 mạng, kháng chiến, bảo vệ tổ quốc, làm nghĩa vụ quốc tế bị địch bắt tù, đày Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng. 61 Công nhận và giải quyết chế độ ưu đãi người hoạt động kháng chiến bị nhiễm chất độc hóa học Công nhận đối với người bị thương trong chiến tranh không thuộc quân đội, công an Cấp tiền mua phương tiện trợ giúp, dụng cụ chỉnh hình, phương tiện, thiết bị phục hồi chức năng đối với trường 63 hợp đang sống tại gia đình hoặc đang được nuôi dưỡng tập trung tại các cơ sở nuôi dưỡng, điều dưỡng do địa phương quản lý Cấp bổ sung hoặc cấp lại giấy chứng nhận người có công 65 do ngành lao động - thương binh và xã hội quản lý và giấy chứng nhận thân nhân liệt sĩ Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do tỉnh quản lý Giải quyết chế độ ưu đãi đối với trường hợp tặng hoặc 67 truy tặng danh hiệu vinh dự nhà nước “bà mẹ việt nam anh hùng\" Giải quyết chế độ ưu đãi đối với anh hùng lực lượng vũ 68 trang nhân dân, anh hùng lao động trong thời kỳ kháng chiến hiện không công tác trong quân đội, công an Giải quyết chế độ ưu đãi đối với vợ hoặc chồng liệt sĩ lấy chồng hoặc vợ khác 70 Giải quyết chế độ trợ cấp thờ cúng liệt sĩ. 71 Giải quyết chế độ trợ cấp ưu đãi đối với thân nhân liệt sĩ Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do bộ nội vụ quản lý Cấp bằng “tổ quốc ghi công” đối với người hy sinh hoặc mất tích trong chiến tranh 74 Cấp đổi bằng “tổ quốc ghi công” Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng 76 Cấp lại bằng “tổ quốc ghi công” Cấp bằng “tổ quốc ghi công” đối với người hy sinh thuộc các trường hợp quy định tại điều 14 pháp lệnh nhưng 77 chưa được cấp bằng “tổ quốc ghi công” mà thân nhân đã được giải quyết chế độ ưu đãi từ ngày 01 tháng 01 năm 1995 đến ngày 30 tháng 9 năm 2006 78 Cấp bằng “tổ quốc ghi công” Giải quyết chế độ trợ cấp một lần đối với người được cử làm chuyên gia sang giúp lào, căm-pu-chi-a Thủ tục liên thông đăng ký điều chỉnh đóng bảo hiểm xã 80 hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp và báo cáo tình hình sử dụng lao động Đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi Đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai 82 táng phí, tử tuất Thẩm định báo cáo đánh giá tác động môi trường; cấp giấy phép nhận chìm ở biển Thẩm định báo cáo đánh giá tác động môi trường; cấp 84 giấy phép nhận chìm ở biển ở biển và giao khu vực biển",
+      "35. Thành lập hội Thông báo kết quả đại hội và phê duyệt đổi tên hội, phê duyệt điều lệ hội 37 Hội tự giải thể 38 Báo cáo tổ chức đại hội thành lập, đại hội nhiệm kỳ, đại hội bất thường của hội 39 Chia, tách; sáp nhập; hợp nhất hội 40 Công nhận ban vận động thành lập hội Cho phép hội hoạt động trở lại sau khi bị đình chỉ có thời hạn 42 Thủ tục thi tuyển viên chức (nghị định số 85/2023/nđ-cp) Thủ tục tiếp nhận vào viên chức không giữ chức vụ quản lý 50 Thủ tục xét tuyển viên chức (85/2023/nđ-cp) 51 Cấp giấy xác nhận thân nhân của người có công Di chuyển hài cốt liệt sĩ đang an táng tại nghĩa trang liệt 52 sĩ đi nơi khác theo nguyện vọng của đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ Di chuyển hài cốt liệt sĩ đang an táng ngoài nghĩa trang liệt sĩ về an táng tại nghĩa trang liệt sĩ theo nguyện vọng của đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ Hưởng trợ cấp khi người có công đang hưởng trợ cấp ưu đãi từ trần Giải quyết chế độ hỗ trợ để theo học đến trình độ đại học tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân Giải quyết chế độ người hoạt động kháng chiến giải phóng dân tộc, bảo vệ tổ quốc và làm nghĩa vụ quốc tế 57 Giải quyết chế độ người có công giúp đỡ cách mạng. Công nhận và giải quyết chế độ con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học Công nhận và giải quyết chế độ người hoạt động cách 59 mạng, kháng chiến, bảo vệ tổ quốc, làm nghĩa vụ quốc tế bị địch bắt tù, đày Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng. 61 Công nhận và giải quyết chế độ ưu đãi người hoạt động kháng chiến bị nhiễm chất độc hóa học Công nhận đối với người bị thương trong chiến tranh không thuộc quân đội, công an Cấp tiền mua phương tiện trợ giúp, dụng cụ chỉnh hình, phương tiện, thiết bị phục hồi chức năng đối với trường 63 hợp đang sống tại gia đình hoặc đang được nuôi dưỡng tập trung tại các cơ sở nuôi dưỡng, điều dưỡng do địa phương quản lý Cấp bổ sung hoặc cấp lại giấy chứng nhận người có công 65 do ngành lao động - thương binh và xã hội quản lý và giấy chứng nhận thân nhân liệt sĩ Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do tỉnh quản lý Giải quyết chế độ ưu đãi đối với trường hợp tặng hoặc 67 truy tặng danh hiệu vinh dự nhà nước “bà mẹ việt nam anh hùng\" Giải quyết chế độ ưu đãi đối với anh hùng lực lượng vũ 68 trang nhân dân, anh hùng lao động trong thời kỳ kháng chiến hiện không công tác trong quân đội, công an Giải quyết chế độ ưu đãi đối với vợ hoặc chồng liệt sĩ lấy chồng hoặc vợ khác 70 Giải quyết chế độ trợ cấp thờ cúng liệt sĩ. 71 Giải quyết chế độ trợ cấp ưu đãi đối với thân nhân liệt sĩ Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do bộ nội vụ quản lý Cấp bằng “tổ quốc ghi công” đối với người hy sinh hoặc mất tích trong chiến tranh 74 Cấp đổi bằng “tổ quốc ghi công” Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng 76 Cấp lại bằng “tổ quốc ghi công” Cấp bằng “tổ quốc ghi công” đối với người hy sinh thuộc các trường hợp quy định tại điều 14 pháp lệnh nhưng 77 chưa được cấp bằng “tổ quốc ghi công” mà thân nhân đã được giải quyết chế độ ưu đãi từ ngày 01 tháng 01 năm 1995 đến ngày 30 tháng 9 năm 2006 78 Cấp bằng “tổ quốc ghi công” Giải quyết chế độ trợ cấp một lần đối với người được cử làm chuyên gia sang giúp lào, căm-pu-chi-a Thủ tục liên thông đăng ký điều chỉnh đóng bảo hiểm xã 80 hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp và báo cáo tình hình sử dụng lao động Đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi Đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai 82 táng phí, tử tuất Thẩm định báo cáo đánh giá tác động môi trường; cấp giấy phép nhận chìm ở biển Thẩm định báo cáo đánh giá tác động môi trường; cấp 84 giấy phép nhận chìm ở biển ở biển và giao khu vực biển",
+      "2. Đổi tên 01 tổ dân phố Phú Hào thành tổ dân phố Hào Phú.",
+      "35. Thành lập hội Thông báo kết quả đại hội và phê duyệt đổi tên hội, phê duyệt điều lệ hội 37 Hội tự giải thể 38 Báo cáo tổ chức đại hội thành lập, đại hội nhiệm kỳ, đại hội bất thường của hội 39 Chia, tách; sáp nhập; hợp nhất hội 40 Công nhận ban vận động thành lập hội Cho phép hội hoạt động trở lại sau khi bị đình chỉ có thời hạn 42 Thủ tục thi tuyển viên chức (nghị định số 85/2023/nđ-cp) Thủ tục tiếp nhận vào viên chức không giữ chức vụ quản lý 50 Thủ tục xét tuyển viên chức (85/2023/nđ-cp) 51 Cấp giấy xác nhận thân nhân của người có công Di chuyển hài cốt liệt sĩ đang an táng tại nghĩa trang liệt 52 sĩ đi nơi khác theo nguyện vọng của đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ Di chuyển hài cốt liệt sĩ đang an táng ngoài nghĩa trang liệt sĩ về an táng tại nghĩa trang liệt sĩ theo nguyện vọng của đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ Hưởng trợ cấp khi người có công đang hưởng trợ cấp ưu đãi từ trần Giải quyết chế độ hỗ trợ để theo học đến trình độ đại học tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân Giải quyết chế độ người hoạt động kháng chiến giải phóng dân tộc, bảo vệ tổ quốc và làm nghĩa vụ quốc tế 57 Giải quyết chế độ người có công giúp đỡ cách mạng. Công nhận và giải quyết chế độ con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học Công nhận và giải quyết chế độ người hoạt động cách 59 mạng, kháng chiến, bảo vệ tổ quốc, làm nghĩa vụ quốc tế bị địch bắt tù, đày Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng. 61 Công nhận và giải quyết chế độ ưu đãi người hoạt động kháng chiến bị nhiễm chất độc hóa học Công nhận đối với người bị thương trong chiến tranh không thuộc quân đội, công an Cấp tiền mua phương tiện trợ giúp, dụng cụ chỉnh hình, phương tiện, thiết bị phục hồi chức năng đối với trường 63 hợp đang sống tại gia đình hoặc đang được nuôi dưỡng tập trung tại các cơ sở nuôi dưỡng, điều dưỡng do địa phương quản lý Cấp bổ sung hoặc cấp lại giấy chứng nhận người có công 65 do ngành lao động - thương binh và xã hội quản lý và giấy chứng nhận thân nhân liệt sĩ Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do tỉnh quản lý Giải quyết chế độ ưu đãi đối với trường hợp tặng hoặc 67 truy tặng danh hiệu vinh dự nhà nước “bà mẹ việt nam anh hùng\" Giải quyết chế độ ưu đãi đối với anh hùng lực lượng vũ 68 trang nhân dân, anh hùng lao động trong thời kỳ kháng chiến hiện không công tác trong quân đội, công an Giải quyết chế độ ưu đãi đối với vợ hoặc chồng liệt sĩ lấy chồng hoặc vợ khác 70 Giải quyết chế độ trợ cấp thờ cúng liệt sĩ. 71 Giải quyết chế độ trợ cấp ưu đãi đối với thân nhân liệt sĩ Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do bộ nội vụ quản lý Cấp bằng “tổ quốc ghi công” đối với người hy sinh hoặc mất tích trong chiến tranh 74 Cấp đổi bằng “tổ quốc ghi công” Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng 76 Cấp lại bằng “tổ quốc ghi công” Cấp bằng “tổ quốc ghi công” đối với người hy sinh thuộc các trường hợp quy định tại điều 14 pháp lệnh nhưng 77 chưa được cấp bằng “tổ quốc ghi công” mà thân nhân đã được giải quyết chế độ ưu đãi từ ngày 01 tháng 01 năm 1995 đến ngày 30 tháng 9 năm 2006 78 Cấp bằng “tổ quốc ghi công” Giải quyết chế độ trợ cấp một lần đối với người được cử làm chuyên gia sang giúp lào, căm-pu-chi-a Thủ tục liên thông đăng ký điều chỉnh đóng bảo hiểm xã 80 hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp và báo cáo tình hình sử dụng lao động Đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi Đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai 82 táng phí, tử tuất Thẩm định báo cáo đánh giá tác động môi trường; cấp giấy phép nhận chìm ở biển Thẩm định báo cáo đánh giá tác động môi trường; cấp 84 giấy phép nhận chìm ở biển ở biển và giao khu vực biển",
+      "35. Thành lập hội Thông báo kết quả đại hội và phê duyệt đổi tên hội, phê duyệt điều lệ hội 37 Hội tự giải thể 38 Báo cáo tổ chức đại hội thành lập, đại hội nhiệm kỳ, đại hội bất thường của hội 39 Chia, tách; sáp nhập; hợp nhất hội 40 Công nhận ban vận động thành lập hội Cho phép hội hoạt động trở lại sau khi bị đình chỉ có thời hạn 42 Thủ tục thi tuyển viên chức (nghị định số 85/2023/nđ-cp) Thủ tục tiếp nhận vào viên chức không giữ chức vụ quản lý 50 Thủ tục xét tuyển viên chức (85/2023/nđ-cp) 51 Cấp giấy xác nhận thân nhân của người có công Di chuyển hài cốt liệt sĩ đang an táng tại nghĩa trang liệt 52 sĩ đi nơi khác theo nguyện vọng của đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ Di chuyển hài cốt liệt sĩ đang an táng ngoài nghĩa trang liệt sĩ về an táng tại nghĩa trang liệt sĩ theo nguyện vọng của đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ Hưởng trợ cấp khi người có công đang hưởng trợ cấp ưu đãi từ trần Giải quyết chế độ hỗ trợ để theo học đến trình độ đại học tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân Giải quyết chế độ người hoạt động kháng chiến giải phóng dân tộc, bảo vệ tổ quốc và làm nghĩa vụ quốc tế 57 Giải quyết chế độ người có công giúp đỡ cách mạng. Công nhận và giải quyết chế độ con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học Công nhận và giải quyết chế độ người hoạt động cách 59 mạng, kháng chiến, bảo vệ tổ quốc, làm nghĩa vụ quốc tế bị địch bắt tù, đày Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng. 61 Công nhận và giải quyết chế độ ưu đãi người hoạt động kháng chiến bị nhiễm chất độc hóa học Công nhận đối với người bị thương trong chiến tranh không thuộc quân đội, công an Cấp tiền mua phương tiện trợ giúp, dụng cụ chỉnh hình, phương tiện, thiết bị phục hồi chức năng đối với trường 63 hợp đang sống tại gia đình hoặc đang được nuôi dưỡng tập trung tại các cơ sở nuôi dưỡng, điều dưỡng do địa phương quản lý Cấp bổ sung hoặc cấp lại giấy chứng nhận người có công 65 do ngành lao động - thương binh và xã hội quản lý và giấy chứng nhận thân nhân liệt sĩ Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do tỉnh quản lý Giải quyết chế độ ưu đãi đối với trường hợp tặng hoặc 67 truy tặng danh hiệu vinh dự nhà nước “bà mẹ việt nam anh hùng\" Giải quyết chế độ ưu đãi đối với anh hùng lực lượng vũ 68 trang nhân dân, anh hùng lao động trong thời kỳ kháng chiến hiện không công tác trong quân đội, công an Giải quyết chế độ ưu đãi đối với vợ hoặc chồng liệt sĩ lấy chồng hoặc vợ khác 70 Giải quyết chế độ trợ cấp thờ cúng liệt sĩ. 71 Giải quyết chế độ trợ cấp ưu đãi đối với thân nhân liệt sĩ Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do bộ nội vụ quản lý Cấp bằng “tổ quốc ghi công” đối với người hy sinh hoặc mất tích trong chiến tranh 74 Cấp đổi bằng “tổ quốc ghi công” Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng 76 Cấp lại bằng “tổ quốc ghi công” Cấp bằng “tổ quốc ghi công” đối với người hy sinh thuộc các trường hợp quy định tại điều 14 pháp lệnh nhưng 77 chưa được cấp bằng “tổ quốc ghi công” mà thân nhân đã được giải quyết chế độ ưu đãi từ ngày 01 tháng 01 năm 1995 đến ngày 30 tháng 9 năm 2006 78 Cấp bằng “tổ quốc ghi công” Giải quyết chế độ trợ cấp một lần đối với người được cử làm chuyên gia sang giúp lào, căm-pu-chi-a Thủ tục liên thông đăng ký điều chỉnh đóng bảo hiểm xã 80 hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp và báo cáo tình hình sử dụng lao động Đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi Đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai 82 táng phí, tử tuất Thẩm định báo cáo đánh giá tác động môi trường; cấp giấy phép nhận chìm ở biển Thẩm định báo cáo đánh giá tác động môi trường; cấp 84 giấy phép nhận chìm ở biển ở biển và giao khu vực biển"
+    ]
+  },
+  "14608": {
+    "name": "Khánh Trung",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14611": {
+    "name": "Khánh Nhạc",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14614": {
+    "name": "Khánh Hội",
+    "platform": "vanban",
+    "documents": 1,
+    "files": 1,
+    "scanned_files": 1,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14620": {
+    "name": "Phát Diệm",
+    "platform": "vanban",
+    "documents": 5,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14623": {
+    "name": "Bình Minh",
+    "platform": "vanban",
+    "documents": 1,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14638": {
+    "name": "Kim Sơn",
+    "platform": "vanban",
+    "documents": 2,
+    "files": 2,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14647": {
+    "name": "Quang Thiện",
+    "platform": "vanban",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14653": {
+    "name": "Chất Bình",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14674": {
+    "name": "Lai Thành",
+    "platform": "vanban",
+    "documents": 2,
+    "files": 3,
+    "scanned_files": 0,
+    "best_evidence": "resolution",
+    "rows": 34,
+    "unread_clauses": []
+  },
+  "14677": {
+    "name": "Định Hóa",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14698": {
+    "name": "Kim Đông",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14701": {
+    "name": "Yên Mô",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14725": {
+    "name": "Yên Thắng",
+    "platform": "vanban",
+    "documents": 3,
+    "files": 4,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14728": {
+    "name": "Yên Từ",
+    "platform": "vanban",
+    "documents": 4,
+    "files": 4,
+    "scanned_files": 0,
+    "best_evidence": "resolution",
+    "rows": 48,
+    "unread_clauses": []
+  },
+  "14743": {
+    "name": "Yên Mạc",
+    "platform": "unknown",
+    "documents": 0,
+    "files": 0,
+    "scanned_files": 0,
+    "best_evidence": "",
+    "rows": 0,
+    "unread_clauses": []
+  },
+  "14746": {
+    "name": "Đồng Thái",
+    "platform": "vanban",
+    "documents": 3,
+    "files": 3,
+    "scanned_files": 0,
+    "best_evidence": "resolution",
+    "rows": 59,
+    "unread_clauses": []
+  }
+}

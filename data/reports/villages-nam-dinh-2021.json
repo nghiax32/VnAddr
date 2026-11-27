@@ -1,0 +1,142 @@
+{
+  "Mỹ Lộc": {
+    "new_stated": 34,
+    "new_read": 34,
+    "old_stated": 76,
+    "old_read": 76,
+    "partial_read": 0,
+    "split_read": 0,
+    "evidence": {
+      "ocr": 51,
+      "ocr_agreed": 11,
+      "ocr_verified": 14,
+      "ocr_unverified": 0
+    }
+  },
+  "Nam Định": {
+    "new_stated": 156,
+    "new_read": 156,
+    "old_stated": 537,
+    "old_read": 536,
+    "partial_read": 0,
+    "split_read": 9,
+    "evidence": {
+      "ocr": 109,
+      "ocr_agreed": 253,
+      "ocr_verified": 183,
+      "ocr_unverified": 0
+    }
+  },
+  "Vụ Bản": {
+    "new_stated": 46,
+    "new_read": 46,
+    "old_stated": 98,
+    "old_read": 98,
+    "partial_read": 0,
+    "split_read": 0,
+    "evidence": {
+      "ocr": 48,
+      "ocr_agreed": 27,
+      "ocr_verified": 23,
+      "ocr_unverified": 0
+    }
+  },
+  "Ý Yên": {
+    "new_stated": 84,
+    "new_read": 84,
+    "old_stated": 228,
+    "old_read": 228,
+    "partial_read": 1,
+    "split_read": 0,
+    "evidence": {
+      "ocr": 127,
+      "ocr_agreed": 42,
+      "ocr_verified": 60,
+      "ocr_unverified": 0
+    }
+  },
+  "Nam Trực": {
+    "new_stated": 114,
+    "new_read": 114,
+    "old_stated": 288,
+    "old_read": 288,
+    "partial_read": 0,
+    "split_read": 0,
+    "evidence": {
+      "ocr": 84,
+      "ocr_agreed": 127,
+      "ocr_verified": 77,
+      "ocr_unverified": 0
+    }
+  },
+  "Trực Ninh": {
+    "new_stated": 142,
+    "new_read": 142,
+    "old_stated": 342,
+    "old_read": 342,
+    "partial_read": 0,
+    "split_read": 0,
+    "evidence": {
+      "ocr": 131,
+      "ocr_agreed": 131,
+      "ocr_verified": 80,
+      "ocr_unverified": 0
+    }
+  },
+  "Nghĩa Hưng": {
+    "new_stated": 60,
+    "new_read": 60,
+    "old_stated": 151,
+    "old_read": 150,
+    "partial_read": 2,
+    "split_read": 0,
+    "evidence": {
+      "ocr": 65,
+      "ocr_agreed": 37,
+      "ocr_verified": 50,
+      "ocr_unverified": 0
+    }
+  },
+  "Xuân Trường": {
+    "new_stated": 103,
+    "new_read": 103,
+    "old_stated": 236,
+    "old_read": 236,
+    "partial_read": 0,
+    "split_read": 0,
+    "evidence": {
+      "ocr": 79,
+      "ocr_agreed": 88,
+      "ocr_verified": 69,
+      "ocr_unverified": 0
+    }
+  },
+  "Giao Thuỷ": {
+    "new_stated": 106,
+    "new_read": 106,
+    "old_stated": 242,
+    "old_read": 243,
+    "partial_read": 11,
+    "split_read": 0,
+    "evidence": {
+      "ocr": 79,
+      "ocr_agreed": 122,
+      "ocr_verified": 53,
+      "ocr_unverified": 0
+    }
+  },
+  "Hải Hậu": {
+    "new_stated": 127,
+    "new_read": 127,
+    "old_stated": 284,
+    "old_read": 279,
+    "partial_read": 10,
+    "split_read": 0,
+    "evidence": {
+      "ocr": 159,
+      "ocr_agreed": 78,
+      "ocr_verified": 52,
+      "ocr_unverified": 0
+    }
+  }
+}
