@@ -1,7 +1,7 @@
 """Tests for the field corrections applied to the Cục Thống kê conversion table
 (pipeline.build_crosswalk.correct), using pipeline/crosswalk_corrections.csv.
 
-The rows are those of the table as published, before correction: the three corrected rows and
+The rows are those of the table as published, before correction: the five corrected rows and
 Phường 5 of thành phố Mỹ Tho, which keeps the province code 82 that one correction replaces."""
 
 import copy
@@ -19,6 +19,10 @@ Tỉnh Hà Nam,full,Nhập toàn bộ,
 full,Nhập toàn bộ,
 91,Tỉnh An Giang,30781,Xã Tiên Hải,30781,Xã Tiên Hải,900,Thành phố Hà Tiên,89,Tỉnh An Giang,\
 unchanged,Giữ nguyên,
+66,Tỉnh Đắk Lắk,24496,Xa Ea Kly,24493,Xã Krông Búk,654,Huyện Krông Pắc,66,Tỉnh Đắk Lắk,full,\
+Nhập toàn bộ,
+66,Tỉnh Đắk Lắk,24496,Xa Ea Kly,24496,Xã Ea Kly,654,Huyện Krông Pắc,66,Tỉnh Đắk Lắk,full,\
+Nhập toàn bộ,
 82,Tỉnh Đồng Tháp,28249,Phường Đạo Thạnh,28249,Phường 5,815,Thành phố Mỹ Tho,82,\
 Tỉnh Tiền Giang,full,Nhập toàn bộ,
 """
@@ -45,6 +49,7 @@ def test_corrections_apply_to_the_wrong_values() -> None:
         "91",
         "Tỉnh Kiên Giang",
     )
+    assert row["24493"]["new_ward_name"] == row["24496"]["new_ward_name"] == "Xã Ea Kly"
     # Each corrected row names the field, both values and the source document.
     assert row["13369"]["correction"] == (
         "old_ward_name: Phường Tiên Sơn -> Xã Tiên Sơn (1674/NQ-UBTVQH15, Điều 1, khoản 102; "
@@ -63,5 +68,5 @@ def test_a_value_already_changed_is_reported_and_left_alone() -> None:
     # including the correction column, stay as they are.
     missed = correct(again)
     assert again == rows
-    assert len(missed) == 5
+    assert len(missed) == 7
     assert "13369 old_ward_name: 'Phường Tiên Sơn' not in the table" in missed
