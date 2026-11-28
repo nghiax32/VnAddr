@@ -1,0 +1,142 @@
+check,province,code,name,field,ours,theirs,note
+new_unit,24,07294,Bố Hạ,type,phuong,xa,"388/NQ-UBTVQH16, Điều 1, khoản 1, điểm i, from 2026-09-20"
+new_unit,24,07375,Lạng Giang,type,phuong,xa,"388/NQ-UBTVQH16, Điều 1, khoản 1, điểm k, from 2026-09-20"
+new_unit,24,07399,Kép,type,phuong,xa,"388/NQ-UBTVQH16, Điều 1, khoản 1, điểm l, from 2026-09-20"
+new_unit,24,07444,Lục Nam,type,phuong,xa,"388/NQ-UBTVQH16, Điều 1, khoản 1, điểm m, from 2026-09-20"
+new_unit,24,07840,Hiệp Hòa,type,phuong,xa,"388/NQ-UBTVQH16, Điều 1, khoản 1, điểm h, from 2026-09-20"
+new_unit,24,09193,Yên Phong,type,phuong,xa,"388/NQ-UBTVQH16, Điều 1, khoản 1, điểm a, from 2026-09-20"
+new_unit,24,09292,Phù Lãng,type,phuong,xa,"388/NQ-UBTVQH16, Điều 1, khoản 1, điểm d, from 2026-09-20"
+new_unit,24,09313,Chi Lăng,type,phuong,xa,"388/NQ-UBTVQH16, Điều 1, khoản 1, điểm c, from 2026-09-20"
+new_unit,24,09319,Tiên Du,type,phuong,xa,"388/NQ-UBTVQH16, Điều 1, khoản 1, điểm b, from 2026-09-20"
+new_unit,24,09454,Gia Bình,type,phuong,xa,"388/NQ-UBTVQH16, Điều 1, khoản 1, điểm e, from 2026-09-20"
+new_unit,24,09475,Nhân Thắng,type,phuong,xa,"388/NQ-UBTVQH16, Điều 1, khoản 1, điểm g, from 2026-09-20"
+new_unit,24,09496,Lương Tài,type,phuong,xa,"388/NQ-UBTVQH16, Điều 1, khoản 1, điểm đ, from 2026-09-20"
+new_unit,31,10543,Việt Hòa,type,phuong,xa,
+new_unit,31,11848,Vĩnh Hòa,type,xa,phuong,
+new_unit,75,25270,Lộc Ninh,type,phuong,xa,"237/NQ-UBTVQH16, Điều 1, khoản 1, điểm h, from 2026-04-30"
+new_unit,75,25357,Tân Khai,type,phuong,xa,"237/NQ-UBTVQH16, Điều 1, khoản 1, điểm đ, from 2026-04-30"
+new_unit,75,25363,Đồng Phú,type,phuong,xa,"237/NQ-UBTVQH16, Điều 1, khoản 1, điểm k, from 2026-04-30"
+new_unit,75,26116,Tân Phú,type,phuong,xa,"237/NQ-UBTVQH16, Điều 1, khoản 1, điểm g, from 2026-04-30"
+new_unit,75,26170,Trị An,type,phuong,xa,"237/NQ-UBTVQH16, Điều 1, khoản 1, điểm c, from 2026-04-30"
+new_unit,75,26248,Trảng Bom,type,phuong,xa,"237/NQ-UBTVQH16, Điều 1, khoản 1, điểm a, from 2026-04-30"
+new_unit,75,26326,Dầu Giây,type,phuong,xa,"237/NQ-UBTVQH16, Điều 1, khoản 1, điểm i, from 2026-04-30"
+new_unit,75,26368,Long Thành,type,phuong,xa,"237/NQ-UBTVQH16, Điều 1, khoản 1, điểm b, from 2026-04-30"
+new_unit,75,26425,Xuân Lộc,type,phuong,xa,"237/NQ-UBTVQH16, Điều 1, khoản 1, điểm e, from 2026-04-30"
+new_unit,75,26485,Nhơn Trạch,type,phuong,xa,"237/NQ-UBTVQH16, Điều 1, khoản 1, điểm d, from 2026-04-30"
+new_unit,92,31213,Tân Lộc,type,phuong,xa,
+new_unit,92,31299,Phong Điền,type,xa,phuong,
+old_unit,01,00181,Phường Văn Miếu - Quốc Tử Giám,name,Phường Văn Miếu - Quốc Tử Giám,Phường Văn Miếu Quốc Tử Giám,"spelling only (diacritics, spaces, hyphens)"
+old_unit,01,00226,Phường Phương Liên - Trung Tự,name,Phường Phương Liên - Trung Tự,Phường Phương Liên Trung Tự,"spelling only (diacritics, spaces, hyphens)"
+old_unit,15,03115,Xã Thẳm Dương,name,Xã Thẳm Dương,Xã Thẩm Dương,"spelling only (diacritics, spaces, hyphens)"
+old_unit,12,03469,Xã Can Hồ,name,Xã Can Hồ,Xã Kan Hồ,
+old_unit,14,03826,Xã Nặm Păm,name,Xã Nặm Păm,Xã Nậm Păm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,15,04603,Xã Tà Xi Láng,name,Xã Tà Xi Láng,Xã Tà Si Láng,
+old_unit,24,09383,Phường Trạng Hạ,name,Phường Trạng Hạ,Phường Trang Hạ,"spelling only (diacritics, spaces, hyphens)"
+old_unit,46,19780,Phường Đúc,name,Phường Đúc,Phường Phường Đúc,
+old_unit,48,20440,Xã Gari,name,Xã Gari,Xã Ga Ri,"spelling only (diacritics, spaces, hyphens)"
+old_unit,48,20443,Xã Axan,name,Xã Axan,Xã A Xan,"spelling only (diacritics, spaces, hyphens)"
+old_unit,48,20452,Xã Anông,name,Xã Anông,Xã A Nông,"spelling only (diacritics, spaces, hyphens)"
+old_unit,48,20455,Xã Atiêng,name,Xã Atiêng,Xã A Tiêng,"spelling only (diacritics, spaces, hyphens)"
+old_unit,48,20458,Xã Bhalêê,name,Xã Bhalêê,Xã Bha Lêê,"spelling only (diacritics, spaces, hyphens)"
+old_unit,48,20461,Xã Avương,name,Xã Avương,Xã A Vương,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22738,Phường Đô Vinh,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22741,Phường Phước Mỹ,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22744,Phường Bảo An,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22750,Phường Phủ Hà,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22759,Phường Kinh Dinh,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22762,Phường Đạo Long,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22765,Phường Đài Sơn,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22768,Phường Đông Hải,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22771,Phường Mỹ Đông,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22774,Xã Thành Hải,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22777,Phường Văn Hải,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22779,Phường Mỹ Bình,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,56,22780,Phường Mỹ Hải,district,Thành phố Phan Rang-Tháp Chàm,Thành phố Phan Rang - Tháp Chàm,"spelling only (diacritics, spaces, hyphens)"
+old_unit,68,23272,Xã Ngũ Phụng,district,Huyện Phú Quý,Huyện Phú Quí,
+old_unit,68,23275,Xã Long Hải,district,Huyện Phú Quý,Huyện Phú Quí,
+old_unit,68,23278,Xã Tam Thanh,district,Huyện Phú Quý,Huyện Phú Quí,
+old_unit,51,23344,Xã Đăk Plô,name,Xã Đăk Plô,Xã Đăk Blô,
+old_unit,51,23464,Xã Ngọk Tem,name,Xã Ngọk Tem,Xã Ngọc Tem,
+old_unit,51,23500,Thị trấn Đăk Hà,district,Huyện Đắk Hà,Huyện Đăk Hà,"spelling only (diacritics, spaces, hyphens)"
+old_unit,51,23503,Xã Đăk Pxi,district,Huyện Đắk Hà,Huyện Đăk Hà,"spelling only (diacritics, spaces, hyphens)"
+old_unit,51,23504,Xã Đăk Long,district,Huyện Đắk Hà,Huyện Đăk Hà,"spelling only (diacritics, spaces, hyphens)"
+old_unit,51,23506,Xã Đăk Hring,district,Huyện Đắk Hà,Huyện Đăk Hà,"spelling only (diacritics, spaces, hyphens)"
+old_unit,51,23509,Xã Đăk Ui,district,Huyện Đắk Hà,Huyện Đăk Hà,"spelling only (diacritics, spaces, hyphens)"
+old_unit,51,23510,Xã Đăk Ngọk,district,Huyện Đắk Hà,Huyện Đăk Hà,"spelling only (diacritics, spaces, hyphens)"
+old_unit,51,23512,Xã Đăk Mar,district,Huyện Đắk Hà,Huyện Đăk Hà,"spelling only (diacritics, spaces, hyphens)"
+old_unit,51,23515,Xã Ngọk Wang,district,Huyện Đắk Hà,Huyện Đăk Hà,"spelling only (diacritics, spaces, hyphens)"
+old_unit,51,23518,Xã Ngọk Réo,district,Huyện Đắk Hà,Huyện Đăk Hà,"spelling only (diacritics, spaces, hyphens)"
+old_unit,51,23521,Xã Hà Mòn,district,Huyện Đắk Hà,Huyện Đăk Hà,"spelling only (diacritics, spaces, hyphens)"
+old_unit,51,23524,Xã Đăk La,district,Huyện Đắk Hà,Huyện Đăk Hà,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23644,Xã Đak Rong,name,Xã Đak Rong,Xã Đăk Rong,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23677,Thị trấn Đak Đoa,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23680,Xã Hà Đông,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23683,Xã Đak Sơmei,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23684,Xã Đak Krong,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23686,Xã Hải Yang,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23689,Xã Kon Gang,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23692,Xã Hà Bầu,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23695,Xã Nam Yang,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23698,Xã KDang,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23701,Xã Hneng,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23704,Xã Tân Bình,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23707,Xã Glar,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23710,Xã Adơk,name,Xã Adơk,Xã A Dơk,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23710,Xã Adơk,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23713,Xã Trang,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23714,Xã Hnol,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23716,Xã Ia Pết,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23719,Xã Ia Băng,district,Huyện Đăk Đoa,Huyện Đak Đoa,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23776,Xã Ia Krái,name,Xã Ia Krái,Xã Ia Krăi,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23840,Xã Đắk Kơ Ning,name,Xã Đắk Kơ Ning,Xã Đăk Kơ Ning,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,23851,Xã Chơ GLong,name,Xã Chơ GLong,Xã Chơ Long,
+old_unit,52,23893,Xã Ia Drang,name,Xã Ia Drang,Xã Ia Drăng,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,24037,Xã Ia Trôk,name,Xã Ia Trôk,Xã Ia Trok,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,24091,Xã Ia Mlah,name,Xã Ia Mlah,Xã Ia Mlăh,"spelling only (diacritics, spaces, hyphens)"
+old_unit,52,24100,Xã Ia Dreh,name,Xã Ia Dreh,Xã Ia HDreh,
+old_unit,66,24202,Xã Ea Khăl,name,Xã Ea Khăl,Xã Ea Khal,"spelling only (diacritics, spaces, hyphens)"
+old_unit,66,24271,Xã Cư Dliê Mnông,name,Xã Cư Dliê Mnông,Xã Cư Dliê M'nông,"spelling only (diacritics, spaces, hyphens)"
+old_unit,68,24643,Xã Đăk Wil,name,Xã Đăk Wil,Xã Đắk Wil,"spelling only (diacritics, spaces, hyphens)"
+old_unit,68,24658,Xã Cư K'nia,name,Xã Cư K'nia,Xã Cư Knia,"spelling only (diacritics, spaces, hyphens)"
+old_unit,68,24832,Xã ĐamBri,name,Xã ĐamBri,Xã Đamb'ri,"spelling only (diacritics, spaces, hyphens)"
+old_unit,68,24850,Xã Đưng K'Nớ,name,Xã Đưng K'Nớ,Xã Đưng KNớ,"spelling only (diacritics, spaces, hyphens)"
+old_unit,68,24973,Xã N' Thôn Hạ,name,Xã N' Thôn Hạ,Xã N'Thol Hạ,
+old_unit,68,25099,Thị trấn Mađaguôi,name,Thị trấn Mađaguôi,Thị trấn Ma Đa Guôi,"spelling only (diacritics, spaces, hyphens)"
+old_unit,68,25117,Xã Mađaguôi,name,Xã Mađaguôi,Xã Ma Đa Guôi,"spelling only (diacritics, spaces, hyphens)"
+old_unit,75,25225,Xã Đăk Ơ,name,Xã Đăk Ơ,Xã Đak Ơ,"spelling only (diacritics, spaces, hyphens)"
+old_unit,80,25462,Phường IV,name,Phường IV,Phường 4,
+old_unit,75,26119,Xã Đak Lua,name,Xã Đak Lua,Xã Đắc Lua,
+old_unit,82,30055,Xã Mỹ Quí,name,Xã Mỹ Quí,Xã Mỹ Quý,
+mapping,20,06079,Xã Hồng Phong,new communes,Hồng Phong (06079),Hồng Phong (06079); Đồng Đăng (06184),
+mapping,01,09013,Xã Văn Khê,new communes,Yên Lãng (08980); Tiến Thắng (08995); Mê Linh (09022); Ô Diên (09817),Yên Lãng (08980); Tiến Thắng (08995); Mê Linh (09022),
+mapping,31,10798,Xã Hòa Bình,new communes,Kim Thành (10804); Hà Nam (10843),Kim Thành (10804); Hà Nam (10843); Nguyễn Bỉnh Khiêm (11911),
+mapping,31,11890,Xã Hòa Bình,new communes,Nguyễn Bỉnh Khiêm (11911),Kim Thành (10804); Hà Nam (10843); Nguyễn Bỉnh Khiêm (11911),
+mapping,68,23053,Xã Hòa Thắng,new communes,Hòa Thắng (23053),Hồng Thái (23041); Hòa Thắng (23053),
+mapping,80,25462,Phường IV,new communes,Tân Ninh (25459),Tân Ninh (25459); Long An (27694),
+mapping,80,27691,Phường 4,new communes,Long An (27694),Tân Ninh (25459); Long An (27694),crosswalk_corrections.csv
+mapping,80,28036,Thị trấn Thủ Thừa,new communes,Thủ Thừa (28036),Thủ Thừa (28036); Nhựt Tảo (28087),
+mapping,82,28252,Phường 4,new communes,Đạo Thạnh (28249),Đạo Thạnh (28249); Cao Lãnh (29869),
+mapping,82,28270,Phường 6,new communes,Thới Sơn (28270),Thới Sơn (28270); Cao Lãnh (29869),
+mapping,82,28437,Phường 3,new communes,Mỹ Phước Tây (28435),Mỹ Phước Tây (28435); Cao Lãnh (29869),
+mapping,82,28439,Phường 4,new communes,Cai Lậy (28439),Cai Lậy (28439); Cao Lãnh (29869),
+mapping,86,28924,Xã Hòa Lộc,new communes,Tân Thành Bình (28921),Tân Thành Bình (28921); Hòa Hiệp (29734),
+mapping,86,29623,Xã Mỹ An,new communes,Nhơn Phú (29623),Thạnh Phú (29182); Nhơn Phú (29623),
+mapping,86,29734,Xã Hòa Lộc,new communes,Hòa Hiệp (29734),Tân Thành Bình (28921); Hòa Hiệp (29734),
+mapping,82,29902,Phường 3,new communes,Sa Đéc (29905),Cao Lãnh (29869); Sa Đéc (29905),
+mapping,82,29908,Phường 4,new communes,Sa Đéc (29905),Cao Lãnh (29869); Sa Đéc (29905),
+mapping,92,31246,Xã Thạnh Quới,new communes,Thạnh Quới (31246),Thạnh Quới (31246); Gia Hòa (31726),
+mapping,92,31268,Xã Tân Thạnh,new communes,Trường Thành (31288),Trường Thành (31288); Tân Thạnh (31666),
+mapping,92,31378,Xã Phú Hữu,new communes,Phú Hữu (31378),Phú Hữu (31378); Trường Khánh (31654),
+mapping,92,31379,Xã Phú Tân,new communes,Phú Hữu (31378),Phú Hữu (31378); Thuận Hòa (31582),
+mapping,92,31438,Xã Tân Long,new communes,Thạnh Hòa (31408),Thạnh Hòa (31408); Tân Long (31741),
+mapping,92,31474,Xã Long Bình,new communes,Long Bình (31473),Long Bình (31473); Tân Long (31741),
+mapping,92,31480,Xã Long Phú,new communes,Long Phú 1 (31480),Long Phú 1 (31480); Long Phú (31639),
+mapping,92,31483,Xã Thuận Hưng,new communes,Xà Phiên (31495),Xà Phiên (31495); Mỹ Hương (31591),
+mapping,92,31582,Xã Phú Tân,new communes,Thuận Hòa (31582),Phú Hữu (31378); Thuận Hòa (31582),
+mapping,92,31606,Xã Thuận Hưng,new communes,Mỹ Hương (31591),Xà Phiên (31495); Mỹ Hương (31591),
+mapping,92,31657,Xã Phú Hữu,new communes,Trường Khánh (31654),Phú Hữu (31378); Trường Khánh (31654),
+mapping,92,31666,Xã Tân Thạnh,new communes,Tân Thạnh (31666),Trường Thành (31288); Tân Thạnh (31666),
+mapping,92,31669,Xã Long Phú,new communes,Long Phú (31639),Long Phú 1 (31480); Long Phú (31639),
+mapping,92,31714,Xã Thạnh Quới,new communes,Gia Hòa (31726),Thạnh Quới (31246); Gia Hòa (31726),
+mapping,92,31741,Xã Tân Long,new communes,Tân Long (31741),Thạnh Hòa (31408); Tân Long (31741),
+mapping,92,31744,Xã Long Bình,new communes,Tân Long (31741),Long Bình (31473); Tân Long (31741),
