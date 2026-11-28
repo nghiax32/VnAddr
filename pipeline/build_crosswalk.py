@@ -14,7 +14,8 @@ Codes are kept as strings with their leading zeros.
 Errors found in the table are corrected from pipeline/crosswalk_corrections.csv, one field
 at a time, each with the document that shows the right value. A correction applies only while
 the table still holds the wrong value it names; the corrected rows say so in the correction
-column, and the source file itself is left as published.
+column, and the source file itself is left as published. Where the table gives one old code to
+two communes, the correction also names the commune (old_ward_name) whose row it changes.
 """
 
 from __future__ import annotations
@@ -93,7 +94,9 @@ def correct(rows: list[dict[str, str]]) -> list[str]:
         hits = [
             r
             for r in rows
-            if r["old_ward_code"] == c["old_ward_code"] and r[c["field"]] == c["wrong"]
+            if r["old_ward_code"] == c["old_ward_code"]
+            and r[c["field"]] == c["wrong"]
+            and (not c.get("old_ward_name") or r["old_ward_name"] == c["old_ward_name"])
         ]
         if not hits:
             missed.append(f"{c['old_ward_code']} {c['field']}: {c['wrong']!r} not in the table")

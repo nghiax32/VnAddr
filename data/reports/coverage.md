@@ -9,7 +9,7 @@ Written by `pipeline.validate` from the tables in `data/interim/parsed/`.
 | units | 0 | 0 | 0 |
 | totals | 0 | 0 | 0 |
 | new communes | 5 | 5 | 0 |
-| old communes | 5 | 1 | 4 |
+| old communes | 1 | 1 | 0 |
 | history | 0 | 0 | 0 |
 
 ## Problems
@@ -21,10 +21,6 @@ Written by `pipeline.validate` from the tables in `data/interim/parsed/`.
 | new communes | 48 | Hoàng Sa | 20333 has no row in the crosswalk | recorded |
 | new communes | 51 | Lý Sơn | 21548 has no row in the crosswalk | recorded |
 | new communes | 79 | Côn Đảo | 26732 has no row in the crosswalk | recorded |
-| old communes | 01 | 00553 Xã Cổ Bi / Xã Đặng Xá | one code for 2 communes: Phường Phúc Lợi (part); Xã Phù Đổng (part); Xã Thuận An (part); Xã Gia Lâm (part) | open |
-| old communes | 01 | 00556 Xã Đặng Xá | split, but only one part is listed: Xã Phù Đổng (part) | open |
-| old communes | 04 | 01615 Xã Hồng Quang / Xã Mỹ Hưng | one code for 2 communes: Xã Bế Văn Đàn (full); Xã Phục Hòa (full) | open |
-| old communes | 08 | 02485 Xã Công Đa / Xã Phú Thịnh | one code for 2 communes: Xã Trung Sơn (full); Xã Thái Bình (full) | open |
 | old communes | 42 | 18796 Xã Kỳ Lợi | moved whole and also elsewhere: Phường Sông Trí (part); Phường Vũng Áng (full); Phường Hoành Sơn (part) | recorded |
 
 ## Accepted discrepancies
@@ -43,8 +39,8 @@ Communes: in `ward_new.csv`, and as stated by the 2025 resolution. Reached: comm
 | Code | Province | Communes | Stated | Reached | Old communes | Communes of 2019 | Villages |
 |---|---|---:|---:|---:|---:|---:|---|
 | 01 | Hà Nội | 126 | 126 | 126 | 526 | 583 | none |
-| 04 | Cao Bằng | 56 | 56 | 56 | 160 | 210 | none |
-| 08 | Tuyên Quang | 124 | 124 | 124 | 329 | 336 | none |
+| 04 | Cao Bằng | 56 | 56 | 56 | 161 | 210 | none |
+| 08 | Tuyên Quang | 124 | 124 | 124 | 330 | 336 | none |
 | 11 | Điện Biên | 45 | 45 | 45 | 129 | 131 | none |
 | 12 | Lai Châu | 38 | 38 | 38 | 106 | 107 | none |
 | 14 | Sơn La | 75 | 75 | 75 | 200 | 204 | none |

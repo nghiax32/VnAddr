@@ -1,8 +1,9 @@
 """Tests for the field corrections applied to the Cục Thống kê conversion table
 (pipeline.build_crosswalk.correct), using pipeline/crosswalk_corrections.csv.
 
-The rows are those of the table as published, before correction: the five corrected rows and
-Phường 5 of thành phố Mỹ Tho, which keeps the province code 82 that one correction replaces."""
+The rows are those of the table as published, before correction: the corrected rows, Phường 5
+of thành phố Mỹ Tho, which keeps the province code 82 that one correction replaces, and the
+communes whose code the table also gives to a corrected row (Hồng Quang, Công Đa, Cổ Bi)."""
 
 import copy
 import csv
@@ -25,6 +26,18 @@ Nhập toàn bộ,
 Nhập toàn bộ,
 82,Tỉnh Đồng Tháp,28249,Phường Đạo Thạnh,28249,Phường 5,815,Thành phố Mỹ Tho,82,\
 Tỉnh Tiền Giang,full,Nhập toàn bộ,
+01,Thành phố Hà Nội,00136,Phường Phúc Lợi,00553,Xã Cổ Bi,018,Huyện Gia Lâm,01,Thành phố Hà Nội,\
+part,Nhập một phần,
+01,Thành phố Hà Nội,00562,Xã Thuận An,00553,Xã Đặng Xá,018,Huyện Gia Lâm,01,Thành phố Hà Nội,\
+part,"Nhập một phần diện tích, toàn bộ dân số",
+04,Tỉnh Cao Bằng,01636,Xã Bế Văn Đàn,01615,Xã Hồng Quang,049,Huyện Quảng Hòa,04,Tỉnh Cao Bằng,\
+full,Nhập toàn bộ,
+04,Tỉnh Cao Bằng,01648,Xã Phục Hòa,01615,Xã Mỹ Hưng,049,Huyện Quảng Hòa,04,Tỉnh Cao Bằng,\
+full,Nhập toàn bộ,
+08,Tỉnh Tuyên Quang,02458,Xã Trung Sơn,02485,Xã Công Đa,075,Huyện Yên Sơn,08,Tỉnh Tuyên Quang,\
+full,Nhập toàn bộ,
+08,Tỉnh Tuyên Quang,02494,Xã Thái Bình,02485,Xã Phú Thịnh,075,Huyện Yên Sơn,08,Tỉnh Tuyên Quang,\
+full,Nhập toàn bộ,
 """
 
 
@@ -58,6 +71,17 @@ def test_corrections_apply_to_the_wrong_values() -> None:
     assert row["27691"]["correction"].count("1682/NQ-UBTVQH15") == 2
     # A correction is tied to its ward code: another row with province code 82 is left as it is.
     assert row["28249"] == by_code(published())["28249"]
+    # Where one code is given to two communes, only the named commune's row gets its own code.
+    assert (row["01615"]["old_ward_name"], row["01651"]["old_ward_name"]) == (
+        "Xã Hồng Quang",
+        "Xã Mỹ Hưng",
+    )
+    assert (row["02485"]["old_ward_name"], row["02482"]["old_ward_name"]) == (
+        "Xã Công Đa",
+        "Xã Phú Thịnh",
+    )
+    assert [r["old_ward_name"] for r in rows if r["old_ward_code"] == "00553"] == ["Xã Cổ Bi"]
+    assert [r["old_ward_name"] for r in rows if r["old_ward_code"] == "00556"] == ["Xã Đặng Xá"]
 
 
 def test_a_value_already_changed_is_reported_and_left_alone() -> None:
@@ -68,5 +92,5 @@ def test_a_value_already_changed_is_reported_and_left_alone() -> None:
     # including the correction column, stay as they are.
     missed = correct(again)
     assert again == rows
-    assert len(missed) == 7
+    assert len(missed) == 10
     assert "13369 old_ward_name: 'Phường Tiên Sơn' not in the table" in missed
